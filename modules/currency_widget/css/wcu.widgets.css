@@ -1,0 +1,29 @@
+.wcuWidgetRow {
+	display: block;
+	position: relative;
+	float: none;
+	width: 100%;
+	min-height: 30px;
+	margin-bottom: 15px;
+	text-align: left;
+}
+.wcuWidgetRow:first-child {
+	margin-top: 15px;
+}
+.wcuWidgetRow > label {
+	display: block;
+}
+.wcuWidgetRow input[type="text"], .wcuWidgetRow textarea, .wcuWidgetRow select {
+	width: 100%;
+}
+.wcuWidgetRow label.wcuSwitcherRadioLabel {
+	display:inline-block;
+	position:relative;
+	margin-top:5px;
+	margin-right:10px;
+}
+input[type=checkbox][disabled]{
+	display: inline-block;
+	float: left;
+	margin-top: 5px !important;
+}

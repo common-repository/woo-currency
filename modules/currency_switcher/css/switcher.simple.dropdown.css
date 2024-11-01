@@ -1,0 +1,298 @@
+.wcuCurrencySwitcher {
+    font-size: 14px !important;
+    font-family: sans-serif !important;
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.wcuCurrencySwitcher * {
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.selecter-selected {
+	display:none !important;
+}
+.wcuCurrencySwitcher .wcuCurrencySwitcherButtonClose .fa-times {
+	display:block;
+	position:absolute;
+	left:50%;
+	top:50%;
+	-webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.wcuCurrencySwitcher {
+    position: fixed;
+    z-index: 999999;
+}
+
+.wcuCurrencySwitcher.top {
+    top: 0;
+}
+
+.wcuCurrencySwitcher.left {
+    left: 0;
+}
+
+.wcuCurrencySwitcher.right {
+    right: 0;
+}
+
+.wcuCurrencySwitcher.bottom {
+    bottom: 0;
+}
+
+.wcuCurrencySwitcher.vertical {
+    transform: translate(0%, -50%);
+}
+
+.wcuCurrencySwitcher ul {
+    list-style: none;
+    margin: 0;
+}
+
+.wcuCurrencySwitcher li {
+    text-align: center;
+    cursor: pointer;
+}
+
+.wcuCurrencySwitcher.horizontal li,
+.wcuCurrencySwitcher.horizontal li {
+    display: inline-block;
+    float: left;
+}
+
+.wcuCurrencySwitcher.horizontal li {
+    border-right: none;
+}
+
+.wcuCurrencySwitcher.left li:not(:last-child),
+.wcuCurrencySwitcher.right li:not(:last-child) {
+    border-bottom: none;
+}
+
+.wcuCurrencySwitcher.top li:not(:last-child),
+.wcuCurrencySwitcher.bottom li:not(:last-child) {
+    border-right: none;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconType_circle li {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.wcuCurrencySwitcher ul li {
+    visibility: hidden;
+    opacity: 0;
+    font-size: 0px;
+    transition: .2s ease-out;
+    z-index: -1 !important;
+    color: rgba(0, 0, 0, .0);
+}
+
+.wcuCurrencySwitcher.left.horizontal ul li:nth-child(2),
+.wcuCurrencySwitcher.left.vertical ul li:nth-child(2),
+.wcuCurrencySwitcher.right.vertical ul li:nth-child(2) {
+    visibility: visible;
+    opacity: 1;
+    z-index: 9 !important;
+    width: auto;
+}
+
+.wcuCurrencySwitcher.vertical ul li {
+    height: 0px;
+    margin-top: -30px;
+}
+
+.wcuCurrencySwitcher.vertical ul li:nth-child(2) {
+    height: auto;
+    margin-top: 0px;
+}
+
+.wcuCurrencySwitcher.wcuCsdToggleSwitcher_on_hover.vertical ul:hover li {
+    height: auto;
+    margin-top: 0px;
+}
+
+.wcuCurrencySwitcher.left.horizontal ul li {
+    width: auto;
+    margin-left: -50px;
+}
+
+.wcuCurrencySwitcher.left.horizontal ul li:nth-child(2) {
+    width: auto;
+    margin-left: 0px;
+}
+
+.wcuCurrencySwitcher.wcuCsdToggleSwitcher_on_hover.left.horizontal ul:hover li {
+    width: auto;
+    margin-left: 0px;
+}
+
+.wcuCurrencySwitcher.right.horizontal ul li {
+    width: auto;
+    margin-right: -50px;
+}
+
+.wcuCurrencySwitcher.right.horizontal ul li:nth-last-child(2) {
+    width: auto;
+    margin-right: 0px;
+    visibility: visible;
+    opacity: 1;
+    z-index: 9 !important;
+}
+
+.wcuCurrencySwitcher.wcuCsdToggleSwitcher_on_hover.right.horizontal ul:hover li {
+    width: auto;
+    margin-right: 0px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_s ul li {
+    font-size: 10px;
+    padding: 4px 8px;
+    line-height: 16px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_s.wcuCsdIconType_circle ul li {
+    line-height: 30px !important;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_s ul:hover li {
+    font-size: 10px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_m ul li {
+    font-size: 12px;
+    padding: 5px 10px;
+    line-height: 22px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_m.wcuCsdIconType_circle ul li {
+    line-height: 35px !important;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_m ul:hover li {
+    font-size: 12px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_l ul li {
+    font-size: 14px;
+    padding: 6px 12px;
+    line-height: 26px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_l.wcuCsdIconType_circle ul li {
+    line-height: 40px !important;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_l ul:hover li {
+    font-size: 14px;
+}
+
+.wcuCurrencySwitcher.wcuCsdToggleSwitcher_on_hover .wcuCurrencySwitcherSimpleDropdownClose {
+    display: none;
+}
+
+.wcuCurrencySwitcherSimpleDropdownClose .dashicons,
+.wcuCurrencySwitcherSimpleDropdownClose .dashicons-before:before {
+    line-height: inherit;
+}
+
+.wcuCurrencySwitcher.wcuCsdToggleSwitcher_on_hover ul:hover li {
+    visibility: visible;
+    opacity: 1;
+    z-index: 9 !important;
+}
+
+.wcuCsdToggleSwitcherClick ul li {
+    visibility: visible;
+    opacity: 1;
+    z-index: 9 !important;
+}
+
+.wcuCsdToggleSwitcherClick.vertical ul li {
+    height: auto;
+    margin-top: 0px;
+}
+
+.wcuCsdToggleSwitcherClick.right.horizontal ul li {
+    width: auto;
+    margin-right: 0px;
+}
+
+.wcuCsdToggleSwitcherClick.left.horizontal ul li {
+    width: auto;
+    margin-left: 0px;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCsdIconSize_s.wcuCsdIconType_circle ul li {
+    min-width: 40px;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCsdIconSize_m.wcuCsdIconType_circle ul li {
+    min-width: 45px;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCsdIconSize_l.wcuCsdIconType_circle ul li {
+    min-width: 55px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_s.wcuCsdShow_flags ul li {
+    font-size: 16px;
+    line-height: 16px !important;
+    padding: 4px;
+    width: 26px !important;
+    height: 26px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_m.wcuCsdShow_flags ul li {
+    font-size: 18px;
+    line-height: 22px !important;
+    padding: 5px;
+    width: 34px !important;
+    height: 34px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_l.wcuCsdShow_flags ul li {
+    font-size: 20px;
+    line-height: 31px !important;
+    padding: 6px;
+    width: 44px !important;
+    height: 44px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_s.wcuCsdShow_flags ul li img {
+    width: 16px;
+    height: 16px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_m.wcuCsdShow_flags ul li img {
+    width: 24px;
+    height: 24px;
+}
+
+.wcuCurrencySwitcher.wcuCsdIconSize_l.wcuCsdShow_flags ul li img {
+    width: 32px;
+    height: 32px;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCsdIconSize_s.wcuCsdIconType_circle.wcuCsdShow_flags ul li {
+    min-width: auto;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCsdIconSize_m.wcuCsdIconType_circle.wcuCsdShow_flags ul li {
+    min-width: auto;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCsdIconSize_l.wcuCsdIconType_circle.wcuCsdShow_flags ul li {
+    min-width: auto;
+}
+.wcuCurrencySwitcher img {
+    max-width:32px !important;
+}
+.wcuCurrencySwitcher *,
+.wcuCurrencySwitcher *::before,
+.wcuCurrencySwitcher *::after {
+	box-sizing: border-box;
+}

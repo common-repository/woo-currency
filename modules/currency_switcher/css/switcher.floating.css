@@ -1,0 +1,459 @@
+.wcuCurrencySwitcher {
+    font-size: 14px  !important;
+    font-family: sans-serif  !important;
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.wcuCurrencySwitcher * {
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.selecter-selected {
+	display:none !important;
+}
+.wcuCurrencySwitcher .wcuCurrencySwitcherButtonClose .fa-times {
+	display:block;
+	position:absolute;
+	left:50%;
+	top:50%;
+	-webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.wcuCurrencySwitcher .wcuHeader {
+    border: none;
+    text-align: center;
+    padding: 10px 0px;
+    font-size: 14px;
+}
+
+.wcuCurrencySwitcher table {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    table-layout: auto;
+}
+
+.wcuCurrencySwitcher td,
+.wcuCurrencySwitcher th {
+    border: none;
+}
+
+.wcuCurrencySwitcher tr:hover {
+    cursor: pointer;
+}
+
+.wcuCurrencySwitcher tr {
+    border-top: 1px solid rgba(255, 255, 255, .2);
+}
+
+.wcuCurrencySwitcher td {
+    text-align: left;
+    padding: 5px;
+    vertical-align: middle;
+}
+
+.wcuCurrencySwitcher td:first-child {
+    padding-left: 15px;
+}
+
+.wcuCurrencySwitcher td:last-child {
+    padding-right: 15px;
+}
+
+.wcuCurrencySwitcherFloating_rate {
+    text-align: right;
+	overflow-wrap: normal;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+	min-width: 50px;
+}
+
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherButton td,
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherButton td {
+    border-right: 1px solid rgba(255, 255, 255, .2);
+}
+
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherButton td:last-child,
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherButton td:last-child {
+    border-right: none;
+}
+
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherButton td,
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherButton td {
+    border-bottom: 1px solid rgba(255, 255, 255, .2);
+}
+
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherButton td:last-child,
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherButton td:last-child {
+    border-bottom: none;
+}
+
+.wcuCurrencySwitcher.left {
+    -webkit-transform: translate(-100%, -50%);
+    -ms-transform: translate(-100%, -50%);
+    transform: translate(-100%, -50%);
+    left: 0px;
+}
+
+.wcuCurrencySwitcher.right {
+    -webkit-transform: translate(100%, -50%);
+    -ms-transform: translate(100%, -50%);
+    transform: translate(100%, -50%);
+    right: 0px;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.left:hover,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.right:hover {
+    -webkit-transform: translate(-0%, -50%);
+    -ms-transform: translate(-0%, -50%);
+    transform: translate(0%, -50%);
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.left,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.right {
+    -webkit-transform: translate(-0%, -50%);
+    -ms-transform: translate(-0%, -50%);
+    transform: translate(0%, -50%);
+}
+
+.wcuCurrencySwitcher.top {
+    -webkit-transform: translate(-50%, -100%);
+    -ms-transform: translate(-50%, -100%);
+    transform: translate(-50%, -100%);
+    top: 0px;
+}
+
+.wcuCurrencySwitcher.bottom {
+    -webkit-transform: translate(-50%, -100%);
+    -ms-transform: translate(-50%, -100%);
+    transform: translate(-50%, 100%);
+    bottom: 0px;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.top,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.bottom {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, 0%);
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.left,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.right {
+    -webkit-transform: translate(-0%, -50%);
+    -ms-transform: translate(-0%, -50%);
+    transform: translate(-0%, -50%);
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.top:hover,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.bottom:hover {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, 0%);
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.left:hover,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.right:hover {
+    -webkit-transform: translate(-0%, -50%);
+    -ms-transform: translate(-0%, -50%);
+    transform: translate(-0%, -50%);
+}
+
+.wcuCurrencySwitcherButton {
+    display: inline-block;
+    position: absolute;
+    z-index: -1;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+}
+
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherButton td,
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherButton td {
+    float: left;
+    width: 100%;
+    min-width: 40px;
+}
+
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(0%, -0%);
+    -ms-transform: translate(0%, -0%);
+    transform: translate(0%, -0%);
+    left: 100%;
+    top: 38px;
+}
+
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(0%, -0%);
+    -ms-transform: translate(0%, -0%);
+    transform: translate(0%, -0%);
+    right: 100%;
+    top: 38px;
+}
+
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, 0%);
+    top: 100%;
+    left: 50%;
+}
+
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, 0%);
+    bottom: 100%;
+    left: 50%;
+}
+
+.wcuCurrencySwitcher {
+    display: inline-block;
+    position: fixed;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    z-index: 9999;
+    width: auto;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.left:hover .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(0%, -0%);
+    -ms-transform: translate(0%, -0%);
+    transform: translate(0%, -0%);
+    left: 0%;
+    top: 38px;
+    opacity: 0;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.right:hover .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(0%, -0%);
+    -ms-transform: translate(0%, -0%);
+    transform: translate(0%, -0%);
+    right: 0%;
+    top: 38px;
+    opacity: 0;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.top:hover .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, -0%);
+    top: 0%;
+    opacity: 0;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_hover.bottom:hover .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, -0%);
+    bottom: 0%;
+    opacity: 0;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.left .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(0%, -0%);
+    -ms-transform: translate(0%, -0%);
+    transform: translate(0%, -0%);
+    left: 0%;
+    top: 38px;
+    opacity: 0;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.right .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(0%, -0%);
+    -ms-transform: translate(0%, -0%);
+    transform: translate(0%, -0%);
+    right: 0%;
+    top: 38px;
+    opacity: 0;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.top .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, -0%);
+    top: 0%;
+    opacity: 0;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick.bottom .wcuCurrencySwitcherButton {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, -0%);
+    bottom: 0%;
+    opacity: 0;
+}
+
+.wcuHeader {
+    z-index: 9999;
+}
+
+.wcuCurrencySwitcherFloatingTableCurrencies {
+    z-index: 9999;
+}
+
+.wcuCurrencySwitcherButtonStaticText {
+    width: 100%;
+    text-align: center;
+    display: block;
+    position: relative;
+}
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherFloatingTableButton td:first-child,
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherFloatingTableButton td:first-child {
+    padding-left: 5px;
+}
+
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherFloatingTableButton td:last-child,
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherFloatingTableButton td:last-child {
+    padding-right: 5px;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcherClick .wcuCurrencySwitcherButtonClose {
+    display: inline-block !important;
+    position: absolute;
+    cursor: pointer;
+    background-color: inherit;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_click .wcuCurrencySwitcherButtonClose span {
+    text-align: center;
+    line-height: 40px;
+    width: 40px;
+    height: 40px;
+    font-size: 28px;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_click.left .wcuCurrencySwitcherButtonClose,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_click.top .wcuCurrencySwitcherButtonClose,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_click.bottom .wcuCurrencySwitcherButtonClose {
+    top: 5px;
+    right: 0%;
+    -webkit-transform: translate(115%, 0%);
+    -ms-transform: translate(115%, 0%);
+    transform: translate(115%, 0%);
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_on_click.right .wcuCurrencySwitcherButtonClose {
+    top: 5px;
+    left: 0%;
+    -webkit-transform: translate(115%, 0%);
+    -ms-transform: translate(115%, 0%);
+    transform: translate(-115%, 0%);
+}
+
+.wcuCurrencySwitcherFloating_flag {
+    display: block;
+    position: relative;
+}
+
+.wcuCurrencySwitcherFloating_flag img {
+    display:block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, -0%);
+}
+
+.wcuCurrencySwitcher div {
+    line-height: initial;
+}
+
+.wcuCurrencySwitcherFloatingTableButton tr {
+	font-size:0px;
+}
+
+.wcuCurrencySwitcher.wcuFloatOpeningButton_flags .wcuCurrencySwitcherFloatingTableButton td {
+    height: 42px;
+    width: 42px;
+}
+
+.wcuCurrencySwitcher.wcuFloatOpeningButton_flags .wcuCurrencySwitcherButtonDiv {
+    height: 42px;
+    width: 42px;
+    text-align:center;
+    padding: 0px !important;
+}
+
+.wcuCurrencySwitcher.wcuFloatOpeningButton_flags .wcuCurrencySwitcherFloatingTableButton td {
+    height: 42px;
+    width: 42px;
+    padding: 0px !important;
+}
+
+.wcuCurrencySwitcher.wcuFloatOpeningButton_flags .wcuCurrencySwitcherButtonDiv img {
+    display: block;
+    position: relative;
+    left: 50%;
+    top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.wcuFloatOpeningButton_currency_codes .wcuCurrencySwitcherButton td {
+    width:auto !important;
+    /* min-width:auto !important; */
+    text-align:center !important;
+	white-space: nowrap !important;
+}
+
+.wcuFloatOpeningButton_currency_symbols .wcuCurrencySwitcherButton td {
+    width:100% !important;
+    min-width:auto !important;
+    text-align:left !important;
+	white-space: nowrap !important;
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_full_size.top,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_full_size.bottom {
+    -webkit-transform: translate(-50%, -0%);
+    -ms-transform: translate(-50%, -0%);
+    transform: translate(-50%, 0%)
+}
+
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_full_size.left,
+.wcuCurrencySwitcher.wcuFloatToggleSwitcher_full_size.right {
+    -webkit-transform: translate(-0%, -50%);
+    -ms-transform: translate(-0%, -50%);
+    transform: translate(-0%, -50%)
+}
+.wcuFloatOpeningButtonIconSize_s .wcuCurrencySwitcherButton td {
+	padding:5px !important;
+}
+.wcuFloatOpeningButtonIconSize_m .wcuCurrencySwitcherButton td {
+	padding:8px !important;
+}
+.wcuFloatOpeningButtonIconSize_l .wcuCurrencySwitcherButton td {
+	padding:12px !important;
+}
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherButton td,
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherButton td {
+    width:100% !important;
+}
+.wcuTabContentPreviewInner .wcuCurrencySwitcher.left .wcuCurrencySwitcherButton td,
+.wcuTabContentPreviewInner .wcuCurrencySwitcher.right .wcuCurrencySwitcherButton td {
+    width:auto;
+}
+.wcuTabContentPreviewInner div.wcuCurrencySwitcherButton table.wcuCurrencySwitcherFloatingTableButton tbody tr td {
+	width: 100% !important;
+}
+.wcuCurrencySwitcher img {
+    max-width:32px !important;
+}
+.wcuCurrencySwitcher *,
+.wcuCurrencySwitcher *::before,
+.wcuCurrencySwitcher *::after {
+	box-sizing: border-box;
+}

@@ -1,0 +1,52 @@
+.wcuCurrencySwitcherWidgetShowAsFlag {
+	display:inline-block;
+	position:relative;
+	cursor:pointer;
+	opacity:.8;
+	width:32px;
+	height:auto;
+}
+.wcuCurrencySwitcherWidgetShowAsFlag.wcuCurrent   {
+	opacity:1;
+}
+.wcuCurrencySwitcherWidgetShowAsFlag:hover {
+	opacity:1;
+}
+.wcuFlagsSelectBoxDropdownWrapper li:before {
+	display:none !important;
+}
+.wcuFlagsSelectBoxDropdownWrapper img.fnone  {
+	width:auto;
+	height:auto;
+}
+.wcuCurrencyRatesList {
+	margin-top:15px;
+}
+.wcuCurrencyRatesList td {
+	vertical-align: middle;
+	text-align:left;
+	margin:0px;
+	padding:0px;
+	border:none;
+}
+.wcuCurrencyRatesList td img {
+	width:24px;
+	height:24px;
+}
+.wcuCurrencyRatesList td.wcuCurrencyRatesListRate {
+	text-align:right;
+}
+.wcuCurrencyRatesList td.wcuCurrencyRatesListRate .wcuCurrencyRateVal {
+	text-align:right;
+	font-size:11px;
+	overflow:hidden;
+	max-width:auto;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.wcuCurrencyRatesListRateFlag {
+	max-width:80px;
+}
+.wcuCurrencyRatesWidget select {
+	width:100%;
+}

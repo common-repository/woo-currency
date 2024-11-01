@@ -1,0 +1,189 @@
+.wcuCurrencySwitcher {
+    font-size: 14px !important;
+    font-family: sans-serif !important;
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.wcuCurrencySwitcher * {
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.selecter-selected {
+	display:none !important;
+}
+.wcuCurrencySwitcher .wcuCurrencySwitcherButtonClose .fa-times {
+	display:block;
+	position:absolute;
+	left:50%;
+	top:50%;
+	-webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.wcuCurrencySwitcher {
+    position: fixed;
+    width: 90px;
+    overflow: visible;
+    z-index: 999999;
+}
+
+.wcuCurrencySwitcher.left {
+    left: 0;
+}
+
+.wcuCurrencySwitcher.right {
+    right: 0;
+}
+
+.wcuCurrencySwitcher.left,
+.wcuCurrencySwitcher.right {
+    transform: translate(0, -50%);
+}
+
+.wcuCurrencySwitcher ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    -webkit-transform: translate(-260px, 0);
+    -moz-transform: translate(-260px, 0);
+    -ms-transform: translate(-260px, 0);
+    -o-transform: translate(-260px, 0);
+    transform: translate(-260px, 0);
+}
+
+.wcuCurrencySwitcher.right ul {
+    margin: 0;
+    -webkit-transform: translate(30px, 0);
+    -moz-transform: translate(30px, 0);
+    -ms-transform: translate(30px, 0);
+    -o-transform: translate(30px, 0);
+    transform: translate(30px, 0);
+}
+
+.wcuCurrencySwitcher li {
+    height: 100%;
+    min-height: 35px;
+    line-height: 30px;
+    vertical-align: middle;
+    display: block;
+    margin: 5px;
+    width: 307px;
+    text-align: right;
+    padding: 5px;
+    -webkit-border-radius: 0 30px 30px 0;
+    -moz-border-radius: 0 30px 30px 0;
+    border-radius: 0 30px 30px 0;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+    cursor: pointer;
+}
+
+.wcuCurrencySwitcher.right li {
+    text-align: left;
+    -webkit-border-radius: 30px 0 0 30px;
+    -moz-border-radius: 30px 0 0 30px;
+    border-radius: 30px 0 0 30px;
+}
+
+.wcuCurrencySwitcher li img {
+    height: auto;
+    width: 35px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.wcuCurrencySwitcher li span {
+    line-height: 31px;
+    font-size: 12px;
+    vertical-align: middle;
+    text-align: center;
+    display: inline-block;
+    margin-left: 20px;
+    overflow: hidden;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+}
+
+.wcuCurrencySwitcher.right li span {
+    float: left;
+    margin-right: 20px;
+    margin-left: 0;
+}
+
+.wcuCurrencySwitcher.wcuRotToggleSwitcher_on_hover ul li:hover {
+    -webkit-transform: translate(110px, 0);
+    -moz-transform: translate(110px, 0);
+    -ms-transform: translate(110px, 0);
+    -o-transform: translate(110px, 0);
+    transform: translate(110px, 0);
+}
+
+.wcuCurrencySwitcher.wcuRotToggleSwitcher_on_hover.right ul li:hover {
+    -webkit-transform: translate(-110px, 0);
+    -moz-transform: translate(-110px, 0);
+    -ms-transform: translate(-110px, 0);
+    -o-transform: translate(-110px, 0);
+    transform: translate(-110px, 0);
+}
+
+.wcuCurrencySwitcher.wcuRotToggleSwitcher_on_hover ul li:hover span {
+    -webkit-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+
+.wcuCurrencySwitcher ul li.wcuRotToggleSwitcherClick {
+    -webkit-transform: translate(110px, 0);
+    -moz-transform: translate(110px, 0);
+    -ms-transform: translate(110px, 0);
+    -o-transform: translate(110px, 0);
+    transform: translate(110px, 0);
+}
+
+.wcuCurrencySwitcher.right ul li.wcuRotToggleSwitcherClick {
+    -webkit-transform: translate(-110px, 0);
+    -moz-transform: translate(-110px, 0);
+    -ms-transform: translate(-110px, 0);
+    -o-transform: translate(-110px, 0);
+    transform: translate(-110px, 0);
+}
+
+.wcuCurrencySwitcher ul li.wcuRotToggleSwitcherClick span {
+    -webkit-transform: rotate(-360deg);
+    -moz-transform: rotate(-360deg);
+    -ms-transform: rotate(-360deg);
+    -o-transform: rotate(-360deg);
+    transform: rotate(-360deg);
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+}
+.wcuCurrencySwitcher img {
+    max-width:32px !important;
+}
+.wcuCurrencySwitcher *,
+.wcuCurrencySwitcher *::before,
+.wcuCurrencySwitcher *::after {
+	box-sizing: border-box;
+}

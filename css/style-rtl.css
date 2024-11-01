@@ -1,0 +1,19 @@
+.woobewoo-plugin .woobewoo-content .woobewoo-navigation {
+	left: 0;
+}
+.woobewoo-plugin .woobewoo-content .woobewoo-navigation.woobewoo-sticky-active {
+	left: 20px;
+}
+#woobewoo-breadcrumbs {
+	left: 0;
+}
+.woobewoo-tour-btns .woobewoo-tour-next-btn {
+	float: right;
+}
+.woobewoo-plugin .wcuCopyTextCode {
+	direction: ltr;
+}
+.chosen-container-single.chosen-container-single-nosearch .chosen-search,
+.chosen-container .chosen-drop {
+	left: 9999px;
+}

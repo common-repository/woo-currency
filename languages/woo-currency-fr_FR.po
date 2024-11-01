@@ -1,0 +1,3097 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WBW Currency Switcher for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-20 06:21+0000\n"
+"PO-Revision-Date: 2022-11-25 16:52+0000\n"
+"Last-Translator: DebugAdminLprR\n"
+"Language-Team: Français\n"
+"Language: fr-FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1\n"
+"X-Domain: woo-currency\n"
+
+#: classes/modInstaller.php:76
+msgid " directory 755 or 777"
+msgstr " répertoire 755 ou 777"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:252 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:256 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:285 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:289 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:320 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:324 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:353 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:357 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:577 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:581 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:180 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:184 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:239 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:243 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:272 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:276 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:307 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:311 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:340 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:344 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:596 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:600 
+#: modules/currency_switcher/mod.php:637 modules/currency_switcher/mod.php:641 
+#: modules/currency_switcher/mod.php:670 modules/currency_switcher/mod.php:674 
+#: modules/currency_switcher/mod.php:705 modules/currency_switcher/mod.php:709 
+#: modules/currency_switcher/mod.php:739 modules/currency_switcher/mod.php:743 
+#: modules/currency_switcher/mod.php:868 modules/currency_switcher/mod.php:872
+msgid "%"
+msgstr "%"
+
+#: modules/promo/mod.php:122
+msgid "4Dem.it - PRO"
+msgstr "4Dem.it - PRO"
+
+#: modules/promo/mod.php:37
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</h3><p>"
+"Could you please do me a BIG favor and give it a 5-star rating on WordPress? "
+"Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+"<h3>Hé, j'ai remarqué que vous utilisez simplement %s sur une semaine - "
+"c'est génial!</h3><p>Pourriez-vous s'il vous plaît me faire une GRANDE "
+"faveur et lui donner une note de 5 étoiles sur WordPress? Juste pour nous "
+"aider à passer le mot et à booster notre motivation.</p>"
+
+#: modules/promo/mod.php:41
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3>Plus de onze jours avec notre plugin %s - Félicitations!</h3>"
+
+#: modules/promo/mod.php:42
+msgid ""
+"<p>On behalf of the entire <a href=\"https://woobewoo.com/\" "
+"target=\"_blank\">woobewoo.com</a> company I would like to thank you for "
+"been with us, and I really hope that our software helped you. If you found "
+"it useful - please, share your opinion leaving a review.</p>"
+msgstr ""
+"<p>Au nom de toute la société <a href=\"https://woobewoo.com/\" "
+"target=\"_blank\">woobewoo.com</a> je voudrais vous remercier d'avoir été "
+"avec nous, et j'espère vraiment que notre logiciel vous a aidé. Si vous "
+"l'avez trouvé utile - s'il vous plaît, partagez votre opinion en laissant un "
+"commentaire.</p>"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Absolu"
+
+#: modules/currency/views/tpl/old/currenciesTab.php:10
+msgid "Actions"
+msgstr "Actions"
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:49
+msgid "Activate"
+msgstr "Activer"
+
+#: ../woocurrency-by-woobewoo-pro/license/mod.php:102
+msgid "Activate License"
+msgstr "Activer la licence"
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr "Actif"
+
+#: modules/promo/mod.php:109
+msgid "Active Campaign - PRO"
+msgstr "Active Campaign - PRO"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Ajouter une Case à cocher"
+
+#: modules/currency/views/tpl/currencyTabContent.php:18 
+#: modules/currency/views/tpl/old/currenciesTab.php:1
+msgid "Add currency"
+msgstr "Ajouter une devise"
+
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:9
+msgid "Add custom currency"
+msgstr "Ajouter une devise personnalisée"
+
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:12
+msgid "Add custom flag"
+msgstr "Ajouter un drapeau personnalisée"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "Ajouter un élément"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Ajouter un bouton radio"
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Adresse"
+
+#: modules/promo/views/tpl/overviewTabContent.php:55
+msgid "All news and info"
+msgstr "Toutes les nouvelles et informations"
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:89
+msgid ""
+"Allows you to automatically set the currency for visitors when they first "
+"visit the site."
+msgstr ""
+"Vous permet de définir automatiquement la devise de vos visiteurs lors de "
+"leur première visite du site."
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Appliquer à"
+
+#: modules/promo/mod.php:111
+msgid "arpReach - PRO"
+msgstr "arpReach - PRO"
+
+#: modules/promo/views/tpl/welcomePage.php:20
+msgid "As an option we can install and setup plugin for you."
+msgstr ""
+"En option, nous pouvons également installer et paramétrer l’extension pour "
+"vous."
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "Attributs"
+
+#: modules/currency/mod.php:1129
+msgid "Automatic exchange rates updates"
+msgstr "Mises à jour automatique des taux de change"
+
+#: modules/currency/mod.php:1147
+msgid "Automatic exchange rates updates (notice admin by email)"
+msgstr ""
+"Mise à jour automatique des taux de change (notification à l'administrateur "
+"par e-mail)"
+
+#: modules/currency/mod.php:1147
+msgid ""
+"Automatic exchange rates updates (notice admin by email) <sup class=\"pro-"
+"label\">PRO</sup>"
+msgstr ""
+"Mises à jour automatique des taux de change (notification de l’admin par "
+"courriel) <sup class=\"pro-label\">PRO</sup>"
+
+#: modules/currency/mod.php:1129
+msgid "Automatic exchange rates updates <sup class=\"pro-label\">PRO</sup>"
+msgstr ""
+"Mises à jour automatique des taux de change <sup class=\"pro-label\">"
+"PRO</sup>"
+
+#: modules/currency/mod.php:1128
+msgid "Automatic update of exchange rates for the selected schedule."
+msgstr ""
+"Met à jour automatiquement des taux de change selon la programmation "
+"sélectionnée."
+
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:127 
+#: modules/currency_switcher/mod.php:1085
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:524 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:543
+msgid "Background color for opening button"
+msgstr "Couleur de fond du bouton d'ouverture"
+
+#: ../woocurrency-by-woobewoo-pro/flags/controller.php:50
+msgid "Bad file format"
+msgstr "Mauvais format de fichier"
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+"Zut, veuillez contacter votre hébergeur et lui demander de configurer "
+"l’envoi de mails sur votre serveur."
+
+#: modules/promo/mod.php:113
+msgid "Benchmark - PRO"
+msgstr "Benchmark - PRO"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:468 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:651 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:724 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:827 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:485 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:654 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:730 
+#: modules/currency_switcher/mod.php:556 modules/currency_switcher/mod.php:967 
+#: modules/currency_switcher/mod.php:1022
+msgid "Bold"
+msgstr "Gras"
+
+#: modules/currency_switcher/mod.php:883
+msgid "Border color"
+msgstr "Couleur de bordure"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:783 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:839
+msgid "border color"
+msgstr "couleur de bordure"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:547 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:150 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:566
+msgid "Border color for opening button"
+msgstr "Couleur de bordure du bouton d'ouverture"
+
+#: modules/currency_switcher/mod.php:850
+msgid "Border-radius"
+msgstr "Rayon des angles"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:559 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:162 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:578
+msgid "Border-radius for opening button"
+msgstr "Rayon de courbure de la bordure du bouton d’ouverture"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:69 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:134 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:78
+msgid "both"
+msgstr "les deux"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:215 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:221 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:86 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:92 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:202 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:208 
+#: modules/currency_switcher/mod.php:461 modules/currency_switcher/mod.php:467
+msgid "bottom"
+msgstr "en bas"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Marques"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:385 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:374 
+#: modules/currency_switcher/mod.php:827
+msgid "button"
+msgstr "bouton"
+
+#: modules/promo/mod.php:104
+msgid "Campaign Monitor - PRO"
+msgstr "Suivi de campagne - PRO"
+
+#: modules/mail/mod.php:175
+msgid "Cannot send email - problem with send server"
+msgstr "Impossible d’envoyer l’email - Le serveur d’envoi a un problème"
+
+#: ../woocurrency-by-woobewoo-pro/flags/controller.php:66
+msgid "Cannot unlink custom image flag"
+msgstr "Impossible de supprimer l'image du drapeau personnalisé"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Catégorie"
+
+#: modules/currency/views/tpl/currencyTabContent.php:32
+msgid "Cents"
+msgstr "Centimes"
+
+#: modules/currency/mod.php:1106
+msgid "Change currency at checkout"
+msgstr "Changer de devise lors du paiement"
+
+#: modules/currency_switcher/mod.php:617
+msgid ""
+"Change horizontal panel offset (only for top and bottom positions if type "
+"Floating or Rotating)"
+msgstr ""
+"Modifiez le décalage horizontal du panneau (uniquement pour les positions "
+"haut et bas si le type est Flottant ou Rotatif)"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:233 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:218
+msgid "Change horizontal panel offset only for bottom and top positions."
+msgstr ""
+"Modifie le décalage horizontal du panneau uniquement pour les positions en "
+"haut et en bas."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:367 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:356 
+#: modules/currency_switcher/mod.php:807
+msgid "Change the level of transparency for the panel and opening button."
+msgstr ""
+"Modifiez le niveau de transparence du panneau et du bouton d’ouverture."
+
+#: modules/currency_switcher/mod.php:791
+msgid "Change the level of transparency for the panel."
+msgstr "Modifiez le niveau de transparence du panneau."
+
+#: modules/currency_switcher/mod.php:686
+msgid ""
+"Change vertical panel offset (only for left and right positions if type "
+"Floating or Rotating)"
+msgstr ""
+"Modifiez le décalage vertical du panneau (uniquement pour les positions "
+"gauche et droite si le type est Flottant ou Rotatif)"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:299 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:286
+msgid "Change vertical panel offset only for left and right positions."
+msgstr ""
+"Modifie le décalage vertical du panneau uniquement pour les positions à "
+"gauche et à droite."
+
+#: modules/promo/views/tpl/overviewTabContent.php:21 
+#: modules/promo/views/tpl/welcomePage.php:50
+msgid "Check all FAQs"
+msgstr "Consulter toutes les FAQs"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:523 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:542
+msgid "Choose background color for opening button."
+msgstr "Choisissez la couleur de fond du bouton d'ouverture."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:757 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:763
+msgid "Choose background color for panel body."
+msgstr "Choisissez la couleur de fond du corps du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:683 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:688 
+#: modules/currency_switcher/mod.php:924
+msgid "Choose background color for panel title."
+msgstr "Choisissez la couleur de fond du titre du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:207 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:77 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:193 
+#: modules/currency_switcher/mod.php:431 modules/currency_switcher/mod.php:452
+msgid ""
+"Choose basic position of panel. Set the horizontal and vertical offset value "
+"according to the selected position of layout design."
+msgstr ""
+"Choisissez la position de base du panneau. Définissez le décalage horizontal "
+"et vertical selon la position de l’apparence choisie."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:860
+msgid "Choose convert button background color."
+msgstr "Choisissez la couleur de fond du bouton de conversion."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:869
+msgid "Choose convert button hover background color."
+msgstr "Choisissez la couleur de fond au survol du bouton de conversion."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:851
+msgid "Choose convert button text color."
+msgstr "Choisissez la couleur du texte du bouton de conversion."
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:97 
+#: modules/currency_switcher/mod.php:753
+msgid "Choose design of currency switcher blocks."
+msgstr "Choisissez l’apparence des blocs du sélecteur de devises."
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:72 
+#: modules/currency_switcher/mod.php:365
+msgid "Choose icon size for Currency Switcher Simple."
+msgstr "Choisissez la taille d’icône pour le sélecteur de devise simple."
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:785
+msgid "Choose inner border color."
+msgstr "Choisissez la couleur de la bordure intérieure."
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:836
+msgid "Choose outer border color for panel."
+msgstr "Choisissez la couleur de bordure externe du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:781
+msgid "Choose outer border color."
+msgstr "Choisissez la couleur de la bordure extérieure."
+
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:126 
+#: modules/currency_switcher/mod.php:1084
+msgid "Choose panel background color."
+msgstr "Choisissez la couleur de fond du panneau."
+
+#: modules/currency_switcher/mod.php:882
+msgid "Choose panel border color."
+msgstr "Choisissez la couleur du bord du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:170 
+#: modules/currency_switcher/mod.php:389
+msgid ""
+"Choose panel layout design. Set the horizontal и vertical offset value "
+"according to the selected position of layout design."
+msgstr ""
+"Choisissez une apparence de panneau. Définissez le décalage horizontal et "
+"vertical en fonction de l'apparence choisie."
+
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:102 
+#: modules/currency_switcher/mod.php:1046
+msgid "Choose panel text color."
+msgstr "Choisissez la couleur du texte du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:111
+msgid "Choose panel text font size."
+msgstr "Choisissez la taille de police du texte du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:191 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:178
+msgid "Choose panel width."
+msgstr "Choisissez la largeur du panneau."
+
+#: modules/currency_switcher/mod.php:1160
+msgid "Choose rotating block background color."
+msgstr "Choisissez la couleur de fond du bloc rotatif."
+
+#: modules/currency_switcher/mod.php:1122
+msgid "Choose rotating block text color."
+msgstr "Choisissez la couleur de texte du bloc rotatif."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:491 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:510 
+#: modules/currency_switcher/mod.php:580
+msgid "Choose size for opening button."
+msgstr "Choisissez la taille du bouton d’ouverture."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:514 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:533
+msgid "Choose text color for opening button."
+msgstr "Choisissez la couleur du texte du bouton d’ouverture."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:748 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:754
+msgid "Choose text color for panel body."
+msgstr "Choisissez la couleur du texte du corps du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:674 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:679 
+#: modules/currency_switcher/mod.php:915
+msgid "Choose text color for panel title."
+msgstr "Choisissez la couleur du texte du titre du panneau."
+
+#: modules/currency_switcher/mod.php:296 modules/currency_switcher/mod.php:489
+msgid "Choose your preferred currency display."
+msgstr "Choissisez votre affichage préféré pour les devises."
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:125 
+#: modules/currency_switcher/mod.php:207
+msgid "Classic"
+msgstr "Classique"
+
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:50
+msgid "Click \"Add custom currency\" to load the first custom currency."
+msgstr ""
+"Cliquez \"Ajouter un devise personnalisée\" pour charger votre première "
+"devise personnalisée."
+
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:51
+msgid "Click \"Add custom flag\" to load the first custom flag."
+msgstr ""
+"Cliquez sur \"Ajouter un drapeau personnalisé\" pour charger le premier "
+"drapeau personnalisé."
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Cliquez pour définir les champs \"id\" et \"class\""
+
+#: modules/promo/views/tpl/adminTour.php:8
+msgid "Close"
+msgstr "Fermer"
+
+#: classes/tables/modules.php:13
+msgid "Code"
+msgstr "Code"
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr "code"
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:4
+#, php-format
+msgid ""
+"Congratulations! PRO version of %s plugin has been activated and is working "
+"fine!"
+msgstr ""
+"Félicitations! La version PRO de l’extension %s est active et fonctionnelle!"
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:8
+#, php-format
+msgid ""
+"Congratulations! You have successfully installed PRO version of %s plugin. "
+"Final step to finish Your PRO version setup - is to enter your Email and "
+"License Key on this page. This will activate Your copy of software on this "
+"site."
+msgstr ""
+"Félicitations! Vous avez installé avec succès la version PRO de l’extension "
+"%s. L’étape finale pour terminer le paramétrage de votre version PRO est "
+"d’entrer votre e-mail et votre clé de licence sur cette page. Ceci activera "
+"votre copie de l’extension sur ce site."
+
+#: modules/promo/mod.php:103
+msgid "Constant Contact - PRO"
+msgstr "Constant Contact - PRO"
+
+#: modules/promo/views/tpl/overviewTabContent.php:61
+msgid "Contact form"
+msgstr "Formulaire de contact"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/views/tpl/currencyConverter.php:259
+#:  
+#: ../woocurrency-by-woobewoo-pro/currency_converter/views/tpl/currencyConverter.php:317
+#:  ../woocurrency-by-woobewoo-pro/options_pro/views/tpl/optionsPro.php:172 
+#: ../woocurrency-by-woobewoo-pro/options_pro/views/tpl/optionsPro.php:224 
+#: modules/currency_widget/views/tpl/currencyConverterWidget.php:225
+msgid "Convert"
+msgstr "Convertir"
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:116
+msgid "Convert Button Background Color"
+msgstr "Couleur de fond du bouton de conversion"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:861
+msgid "Convert button background color"
+msgstr "Couleur de fond du bouton de conversion"
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:123
+msgid "Convert Button Background Hover Color"
+msgstr "Couleur de fond du bouton de conversion au survol"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:797
+msgid "Convert button font setting"
+msgstr "Paramètre de police du bouton de conversion"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:870
+msgid "Convert button hover color"
+msgstr "Couleur de survol du bouton de conversion"
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:109
+msgid "Convert Button Text Color"
+msgstr "Couleur du texte du bouton de conversion"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:852
+msgid "Convert button text color"
+msgstr "Couleur du texte du bouton de conversion"
+
+#: modules/currency_widget/classes/wcuCurrencyConverterWidget.php:12
+msgid "Converter"
+msgstr "Convertisseur"
+
+#: modules/currency/views/tpl/currencyTabContent.php:33
+msgid "Converter Rates "
+msgstr "Taux de conversion "
+
+#: modules/promo/mod.php:116
+msgid "ConvertKit - PRO"
+msgstr "ConvertKit - PRO"
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from woobewoo.com developers. I tried %s - and this "
+"was what I need! #woobewoo.com"
+msgstr ""
+"Des extensions WordPress sympas de la part des développeurs de woobewoo.com. "
+"J'ai essayé %s - et c'est ce dont j'ai besoin ! #woobewoo.com"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:47
+msgid "Couldn't get the plugin to work"
+msgstr "Je n’arrive pas à faire fonctionner le plugin"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Pays"
+
+#: modules/currency/views/tpl/currencyTabContent.php:5
+msgid "Currencies"
+msgstr "Devises"
+
+#: modules/currency/mod.php:714
+msgid "Currency"
+msgstr "Devise"
+
+#: modules/currency/mod.php:1008
+msgid "Currency Aggregator"
+msgstr "Agrégateur de devises"
+
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:55
+#:  modules/currency/views/tpl/currencyTabContent.php:25 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:31 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:66 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:48
+msgid "Currency code"
+msgstr "Code de devise"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:413 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:404 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:422 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:428 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:147 
+#: modules/currency_switcher/mod.php:303 modules/currency_switcher/mod.php:306 
+#: modules/currency_switcher/mod.php:311 modules/currency_switcher/mod.php:314 
+#: modules/currency_switcher/mod.php:353
+msgid "Currency codes"
+msgstr "Codes de devise"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:159 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:165 
+#: modules/currency_switcher/mod.php:495 modules/currency_switcher/mod.php:500
+msgid "currency codes"
+msgstr "codes des devises"
+
+#: modules/currency/mod.php:1042
+msgid "Currency Conversion API key"
+msgstr "Clé API Currency Converter"
+
+#: modules/currency/views/tpl/currencyTabContent.php:9
+msgid "Currency converter"
+msgstr "Convertisseur de devise"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:121
+msgid "Currency Converter allows you to convert currencies by exchange rates."
+msgstr ""
+"Le convertisseur de devise vous permet de convertir les devises par taux de "
+"change."
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/views/tpl/geoIpRules.php:5
+msgid "Currency country list"
+msgstr "Liste des pays de la devise"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:27 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:62 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:44
+msgid "Currency Dropdown Options Text"
+msgstr "Options de texte de la liste déroulante"
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/views/tpl/geoIpRules.php:4
+msgid "Currency name"
+msgstr "Nom de la devise"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:425 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:431 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:150 
+#: modules/currency/views/tpl/currencyTabContent.php:10
+msgid "Currency rates"
+msgstr "Taux des devises"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:116
+msgid ""
+"Currency Rates allows you to get exchange rates for all currencies in list "
+"by selected currency."
+msgstr ""
+"Taux de change vous permet d'obtenir les taux de change pour toutes les "
+"devises listée depuis la devise courante."
+
+#: modules/currency_switcher/mod.php:171
+msgid ""
+"Currency Switcher allows you to switch the currency of the products "
+"according to the selected settings."
+msgstr ""
+"Le sélecteur de devise vous permet de changer la devise des produits en "
+"fonction des paramètres sélectionnés."
+
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:56
+#:  modules/currency_widget/views/tpl/currencySwitcherForm.php:50
+msgid "Currency symbol"
+msgstr "Symbole de la devise"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:415 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:406 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:424 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:430 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:149 
+#: modules/currency_switcher/mod.php:304 modules/currency_switcher/mod.php:307 
+#: modules/currency_switcher/mod.php:312 modules/currency_switcher/mod.php:315 
+#: modules/currency_switcher/mod.php:355
+msgid "Currency symbols"
+msgstr "Symboles de devises"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:160 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:166 
+#: modules/currency_switcher/mod.php:496 modules/currency_switcher/mod.php:501
+msgid "currency symbols"
+msgstr "symboles des devises"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:32 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:67 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:49
+msgid "Currency title"
+msgstr "Titre de la devise"
+
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:65
+msgid ""
+"Currency Tooltip allows you to show price cost of product by other "
+"currencies."
+msgstr ""
+"L’infobulle de devise vous permet d’afficher le prix d’un produit dans "
+"d’autres devises."
+
+#: modules/currency/mod.php:1081
+msgid "Currencylayer API key"
+msgstr "Clé API de la couche devise"
+
+#: ../woocurrency-by-woobewoo-pro/custom_css/mod.php:41 
+#: modules/currency/views/tpl/currencyTabContent.php:11
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: modules/currency/views/tpl/currencyTabContent.php:14
+msgid "Custom Currencies"
+msgstr "Devises personnalisées"
+
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:55
+msgid "Custom flag code"
+msgstr "Code de drapeau personnalisé"
+
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:56
+msgid "Custom flag image"
+msgstr "Image de drapeau personnalisé"
+
+#: modules/currency/views/tpl/currencyTabContent.php:13
+msgid "Custom Flags"
+msgstr "Drapeaux personnalisés"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1013 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:328 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:983 
+#: modules/currency_switcher/mod.php:1329
+msgid ""
+"Custom post type from the list on which you want to hide or display module. "
+"If you turn Display everywhere on - module will be hidden on selected pages. "
+"If Display everywhere off - module will be displayed only on the selected "
+"pages."
+msgstr ""
+"Type personnalisé de publication de la liste sur lequel vous voulez masquer "
+"ou afficher le module. Si vous activez Afficher partout, le module sera "
+"masqué sur les pages choisies. Si Afficher partout est désactivé, le module "
+"sera affiché uniquement sur les pages choisies."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1015 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1027 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:330 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:342 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:985 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:997 
+#: modules/currency_switcher/mod.php:1331 
+#: modules/currency_switcher/mod.php:1343
+msgid "Custom post types"
+msgstr "Types d’articles personnalisés"
+
+#: ../woocurrency-by-woobewoo-pro/custom_css/mod.php:29
+msgid "Customize your CSS for WooCurrency."
+msgstr "Personnalisez votre CSS pour WooCurrency."
+
+#: classes/model.php:176 classes/model.php:188
+msgid "Database error detected"
+msgstr "Une erreur de la base de donnée a été détectée"
+
+#: classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr "Erreur de la base de données. Veuillez contacter votre développeur."
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+"Supprimer les données de l’extension (options, réglages, tables de la base "
+"de données, etc.)"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:122 
+#: modules/currency_switcher/mod.php:200 
+#: modules/currency/views/tpl/currencyTabContent.php:155 
+#: modules/currency/views/tpl/currencyTabContent.php:171 
+#: modules/currency/views/tpl/currencyTabContent.php:195 
+#: modules/currency/views/tpl/currencyTabContent.php:219
+msgid "Design"
+msgstr "Apparence"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:237 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:305 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:224 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:292 
+#: modules/currency_switcher/mod.php:622 modules/currency_switcher/mod.php:690
+msgid "desktop"
+msgstr "ordinateur"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:887 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:202 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:857 
+#: modules/currency_switcher/mod.php:1205 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:70 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:135 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:79
+msgid "desktops"
+msgstr "ordinateurs"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Destination"
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr "Avez-vous reçu cet email de test ?"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:951 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:266 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:921 
+#: modules/currency_switcher/mod.php:1267
+msgid "Disable"
+msgstr "Désactiver"
+
+#: modules/currency/mod.php:1163
+msgid "Disable URIs"
+msgstr "Désactiver les URL"
+
+#: modules/currency/mod.php:1150
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:946 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:261 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:916 
+#: modules/currency_switcher/mod.php:1262
+msgid "Display everywhere"
+msgstr "Afficher partout"
+
+#: modules/currency_switcher/mod.php:1402
+msgid ""
+"Display frontend switcher with view like widget analog. The shortcode can "
+"take parameters, read more in the documentation."
+msgstr ""
+"Affiche le sélecteur avec une apparence similaire au widget. Le code court "
+"peut accepter des paramètres, apprenez-en plus dans la documentation."
+
+#: modules/currency/views/tpl/currencyTabContent.php:156 
+#: modules/currency/views/tpl/currencyTabContent.php:172 
+#: modules/currency/views/tpl/currencyTabContent.php:196 
+#: modules/currency/views/tpl/currencyTabContent.php:220
+msgid "Display rules"
+msgstr "Règles d’affichage"
+
+#: modules/currency_widget/classes/wcuCurrencyConverterWidget.php:10
+msgid "Displays Currency Converter for Woocommerce products"
+msgstr "Affiche le convertisseur de devise pour les produits WooCommerce"
+
+#: modules/currency_widget/classes/wcuCurrencyRatesWidget.php:10
+msgid "Displays Currency Rates Switcher for Woocommerce products"
+msgstr "Affiche le sélecteur de taux de change pour les produits WooCommerce"
+
+#: modules/currency_widget/classes/wcuCurrencySwitcherWidget.php:10
+msgid "Displays Currency Switcher for Woocommerce products"
+msgstr "Affiche le sélecteur de devise pour les produits WooCommerce"
+
+#: classes/controller.php:207 classes/controller.php:215 
+#: ../woocurrency-by-woobewoo-pro/license/controller.php:6 
+#: modules/currency/controller.php:49 
+#: modules/currency_widget/controller.php:20 
+#: modules/currency_widget/controller.php:70 modules/options/controller.php:6 
+#: modules/mail/controller.php:23 modules/pages/views/tpl/deactivatePage.php:37
+msgid "Done"
+msgstr "Terminé"
+
+#: modules/promo/mod.php:123
+msgid "Dotmailer - PRO"
+msgstr "Dotmailer - PRO"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:126 
+#: modules/currency_switcher/mod.php:208 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:34
+msgid "Dropdown"
+msgstr "Liste déroulante"
+
+#: modules/promo/mod.php:189 
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:20
+msgid "Email"
+msgstr "Courriel"
+
+#: modules/mail/mod.php:193
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+"Adresse email utilisée pour tous les messages de notification de l’extension"
+
+#: modules/promo/mod.php:117
+msgid "Emma - PRO"
+msgstr "Emma - PRO"
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr "Option enregistrer les données vides"
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Adresse email vide"
+
+#: classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr "ID vide ou erroné"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:122 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:950 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:66 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:265 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:117 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:920 
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:91 
+#: modules/currency_switcher/mod.php:1266
+msgid "Enable"
+msgstr "Activer"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:799
+msgid "Enable background striping in the panel list."
+msgstr "Active le rainurage de l’arrière-plan de la liste du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:395 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:386
+msgid "Enable currency flag in dropdown select."
+msgstr "Active le drapeau de devise dans la liste déroulante de sélection."
+
+#: ../woocurrency-by-woobewoo-pro/custom_css/mod.php:30
+msgid "Enable custom CSS"
+msgstr "Activer le CSS personnalisé"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:396 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:387
+msgid "Enable dropdown flag"
+msgstr "Activer la liste déroulante de drapeaux"
+
+#: ../woocurrency-by-woobewoo-pro/manual_prices/mod.php:57
+msgid "Enable Manual Prices"
+msgstr "Activer les prix manuels"
+
+#: modules/currency_switcher/mod.php:172
+msgid "Enable switcher"
+msgstr "Activer le sélecteur"
+
+#: ../woocurrency-by-woobewoo-pro/manual_prices/mod.php:56
+msgid "Enable to set individual prices for each product for each currency."
+msgstr ""
+"Activez pour définir des prix individuels pour chaque produit dans chaque "
+"devise."
+
+#: modules/currency/mod.php:1151
+msgid "Enabled"
+msgstr "Activé"
+
+#: modules/currency/mod.php:1132
+msgid "Enter Rates Manually"
+msgstr "Entrer les taux manuellement"
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr "Erreur lors de l’activation du module"
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr "Erreur lors de l’activation du module"
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr "Erreur lors de la désactivation du module"
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr "Erreur sur l’ID du module"
+
+#: modules/currency/mod.php:1055
+msgid "European Central Bank API key"
+msgstr "Clé API de la Banque Centrale Européenne"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:813
+msgid "even rows color"
+msgstr "couleur des lignes paires"
+
+#: modules/currency/views/tpl/currencyTabContent.php:36
+msgid "Exchange Fee"
+msgstr "Frais de change"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:55 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:82 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:64
+msgid "Excluded currencies"
+msgstr "Devises exclues"
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr "Répertoire externe de l’extension"
+
+#: modules/promo/views/tpl/overviewTabContent.php:5
+msgid "FAQ and Documentation"
+msgstr "FAQ et Documentation"
+
+#: ../woocurrency-by-woobewoo-pro/flags/controller.php:47
+msgid "File not saved"
+msgstr "Fichier non enregistré"
+
+#: modules/currency/mod.php:1068
+msgid "Fixer API key"
+msgstr "Clé API Fixer"
+
+#: modules/currency/views/tpl/currencyTabContent.php:27
+msgid "Flag"
+msgstr "Drapeau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:426 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:151 
+#: modules/currency_switcher/mod.php:302 modules/currency_switcher/mod.php:310 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:41
+msgid "Flags"
+msgstr "Drapeaux"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:161 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:167
+msgid "flags"
+msgstr "drapeaux"
+
+#: modules/currency_switcher/mod.php:187
+msgid "Floating"
+msgstr "Flottant"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:24 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:59 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:24
+msgid "for example: 200px, 100%, auto"
+msgstr "par exemple: 200px, 100%, auto"
+
+#: modules/currency/mod.php:1029
+msgid "Free Converter API key"
+msgstr "Clé API pour Free Converter"
+
+#: modules/promo/views/tpl/welcomePage.php:41
+msgid "Frequently Asked Questions"
+msgstr "Foire Aux Questions"
+
+#: modules/currency/views/tpl/currencyTabContent.php:7
+msgid "Frontend switcher"
+msgstr "Sélecteur sur le site"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:154 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:159 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:163 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:168 
+#: modules/currency_switcher/mod.php:228 modules/currency_switcher/mod.php:233
+msgid "full size view"
+msgstr "vue taille d'origine"
+
+#: modules/options/mod.php:121
+msgid "General"
+msgstr "Général"
+
+#: modules/currency/views/tpl/currencyTabContent.php:12
+msgid "Geo IP Rules"
+msgstr "Règles IP Géographiques"
+
+#: modules/currency/views/tpl/currencyTabContent.php:137 
+#: modules/currency/views/tpl/old/currenciesTab.php:70
+msgid "Get rate"
+msgstr "Obtenir le taux"
+
+#: modules/promo/mod.php:107
+msgid "GetResponse - PRO"
+msgstr "GetResponse - PRO"
+
+#: modules/promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr "Aller"
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr "Super ! La fonction mail a été testée et fonctionne bien."
+
+#: classes/field.php:316
+msgid "height"
+msgstr "hauteur"
+
+#: modules/promo/mod.php:198
+msgid "Hello!"
+msgstr "Salut!"
+
+#: modules/currency/views/tpl/currencyTabContent.php:51
+msgid "Hold the cursor on the row to change the position of the currency."
+msgstr ""
+"Maintenez ce curseur et faîtes glisser la ligne pour changer la position de "
+"la devise dans la liste."
+
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:17
+#:  
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:69
+msgid ""
+"Hold the cursor on the row to change the position of the custom currency in "
+"list."
+msgstr ""
+"Maintenez ce curseur et faîtes glisser la ligne pour changer la position de "
+"la devise personnalisée dans la liste."
+
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:27 
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:73
+msgid "Hold the cursor on the row to change the position of the flag in list."
+msgstr ""
+"Maintenez ce curseur et faîtes glisser la ligne pour changer la position du "
+"drapeau dans la liste."
+
+#: modules/currency_switcher/mod.php:395 modules/currency_switcher/mod.php:399 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:106
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:176 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:180
+msgid "horizontal"
+msgstr "horizontal"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:232 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:220 
+#: modules/currency_switcher/mod.php:618
+msgid "Horizontal offset"
+msgstr "Décalage horizontal"
+
+#: modules/currency_switcher/mod.php:1062 
+#: modules/currency_switcher/mod.php:1100 
+#: modules/currency_switcher/mod.php:1138 
+#: modules/currency_switcher/mod.php:1176
+msgid "hover"
+msgstr "survol"
+
+#. Author URI of the plugin
+msgid "https://woobewoo.com"
+msgstr ""
+
+#: modules/promo/mod.php:40
+msgid "I already did"
+msgstr "C’est déjà fait"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:56
+msgid "I found a better plugin"
+msgstr "J’ai trouvé un meilleur plugin"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:67
+msgid "I no longer need the plugin"
+msgstr "Je n’ai plus besoin du plugin"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:73 
+#: modules/currency_switcher/mod.php:366
+msgid "Icon size"
+msgstr "Taille d'icône"
+
+#: modules/currency_switcher/mod.php:777
+msgid "Icon spacing"
+msgstr "Espacement des icônes"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:98 
+#: modules/currency_switcher/mod.php:754
+msgid "Icon type"
+msgstr "Type d’icône"
+
+#: modules/promo/mod.php:108
+msgid "iContact - PRO"
+msgstr "iContact - PRO"
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr "ID"
+
+#: classes/fieldAdapter.php:186 classes/tables/usage_stat.php:7
+msgid "id"
+msgstr "id"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:59
+msgid "If it's possible, specify plugin name"
+msgstr "Si c’est possible, indiquez le nom du plugin"
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:102
+msgid ""
+"If this option is enabled, currencies for your visitors will be set by "
+"default by country code."
+msgstr ""
+"Si cette option est activée, les devises de vos visiteurs seront définie par "
+"défaut selon le code pays."
+
+#: ../woocurrency-by-woobewoo-pro/manual_prices/mod.php:68
+msgid ""
+"If this option is enabled, prices in all currencies will be determined not "
+"by the exchange rate, but taken from the corresponding fields of the product "
+"editing form."
+msgstr ""
+"Si cette option est activée, les prix dans toutes les devises seront "
+"déterminées non pas par le taux de change, mais pris depuis les champs "
+"correspondants du formulaire de modification du produit."
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:114
+msgid ""
+"If this option is enabled, search robots such as Googlebot will always get "
+"the page in main currency."
+msgstr ""
+"Si cette option est activée, les robots tels que Googlebot verront toujours "
+"la page avec la devise principale."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:899 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:214 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:869 
+#: modules/currency_switcher/mod.php:1216
+msgid ""
+"If this option is selected, the panel will be displayed only under the "
+"selected conditions."
+msgstr ""
+"Si cette option est cochée, le panneau sera affiché uniquement dans les "
+"conditions sélectionnées."
+
+#: modules/promo/views/tpl/pluginDeactivation.php:41
+#, php-format
+msgid "If you have a moment, please share why you are deactivating %s"
+msgstr "Si vous avez un moment, veuillez nous dire pourquoi vous désactivez %s"
+
+#: ../woocurrency-by-woobewoo-pro/manual_prices/mod.php:80
+msgid ""
+"If you want to manually set prices only for some currencies, then select the "
+"necessary ones, prices in the remaining currencies will be calculated at the "
+"rate automatically. The option \"Set manual prices for all currencies\" must "
+"be disabled."
+msgstr ""
+"Si vous voulez définir manuellement les prix pour certaines devises, alors "
+"sélectionnez-les, les prix dans les devises restantes seront calculés "
+"automatiquement en fonction du taux. L’option \"Définir les prix "
+"manuellement pour toutes les devises\" doit être désactivée."
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:126
+msgid ""
+"If you want to specify the definition of the currency yourself, please "
+"select your list of countries for each currency. The option \"Set currencies "
+"automatic by default with GeoIP\" must be disabled."
+msgstr ""
+"Si vous voulez affiner vous-même la définition d'une devise, veuillez "
+"sélectionner votre liste de pays pour chaque devise. L'option \"Définir la "
+"devise automatiquement par défaut selon la localisation GeoIP\" doit être "
+"désactivée."
+
+#: modules/options/views/tpl/optionsAdminPage.php:35
+msgid "Improve Free version"
+msgstr "Améliorer la version gratuite"
+
+#: modules/promo/controller.php:7 modules/promo/controller.php:100 
+#: modules/promo/controller.php:108 modules/promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr "Information sauvegardée. Merci !"
+
+#: modules/promo/mod.php:114
+msgid "InfusionSoft - PRO"
+msgstr "InfusionSoft - PRO"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:788
+msgid "inner border color"
+msgstr "couleur de bordure intérieure"
+
+#: modules/currency/mod.php:1041
+#, php-format
+msgid ""
+"Insert the Currency Conversion API key in this field. Get <a "
+"target=\"blank\" href=\"%s\"> API key </a> for the Currency Conversion API. "
+"If the field is empty, Currency Conversion API will use the default API key -"
+" this may create an error when getting the exchange rate."
+msgstr ""
+"Renseignez la clé API Currency Conversion dans ce champ. Obtenez votre <a "
+"target=\"blank\" href=\"%s\"> clé API </a> pour l'API Currency Conversion. "
+"Si le champ est vide, l'API Currency Conversion utilisera une clé par défaut "
+"- ceci peut provoquer des erreurs à la récupération des taux de change."
+
+#: modules/currency/mod.php:1080
+#, php-format
+msgid ""
+"Insert the currencylayer API key of the converter in this field. Get <a "
+"target=\"blank\" href=\"%s\"> API key </a> for the currencylayer converter. "
+"If the field is empty, currencylayer will use the default API key - this may "
+"create an error when getting the exchange rate."
+msgstr ""
+"Renseignez la clé API currencylayer dans ce champ. Obtenez votre <a "
+"target=\"blank\" href=\"%s\"> clé API </a> pour le convertisseur "
+"currencylayer. Si le champ est vide, currencylayer utilisera une clé par "
+"défaut - ceci peut provoquer des erreurs à la récupération des taux de "
+"change."
+
+#: modules/currency/mod.php:1054
+#, php-format
+msgid ""
+"Insert the European Central Bank API key of the converter in this field. "
+"Read <a target=\"blank\" href=\"%s\"> instructions </a> on how to get a "
+"European Central Bank API key for the converter. If the field is empty, "
+"European Central Bank will use the default API key - this may create an "
+"error when getting the exchange rate."
+msgstr ""
+"Renseignez la clé API de la Banque Centrale Européenne dans ce champ. Lisez "
+"les <a target=\"blank\" href=\"%s\"> instructions </a> pour obternir une clé "
+"API de la Banque Centrale Européenne. Si le champ est vide, l'API Banque "
+"Centrale EUropéenne utilisera la clé API par défaut - ceci peut provoquer "
+"des erreurs à la récupération des taux de change."
+
+#: modules/currency/mod.php:1067
+#, php-format
+msgid ""
+"Insert the Fixer API key of the converter in this field. Get <a "
+"target=\"blank\" href=\"%s\"> API key </a> for the Fixer converter. If the "
+"field is empty, Fixer will use the default API key - this may create an "
+"error when getting the exchange rate."
+msgstr ""
+"Renseignez la clé API Fixer dans ce champ. Obtenez votre <a target=\"blank\" "
+"href=\"%s\"> clé API </a> pour le convertisseur Fixer. Si le champ est vide, "
+"Fixer utilisera une clé par défaut - ceci peut provoquer des erreurs à la "
+"récupération des taux de change."
+
+#: modules/currency/mod.php:1028
+#, php-format
+msgid ""
+"Insert the free API key of the converter in this field. Read <a "
+"target=\"blank\" href=\"%s\"> instructions </a> on how to get a free API key "
+"for the converter. If the field is empty, Free Converter will use the "
+"default API key - this may create an error when getting the exchange rate."
+msgstr ""
+"Renseignez la clé API gratuite dans ce champ. Lisez les <a target=\"blank\" "
+"href=\"%s\"> instructions </a> pour obtenir une clé API gratuite pour le "
+"convertisseur. Si le champ est vide, le convertisseur gratuit utilisera une "
+"clé par défaut - ceci peut provoquer des erreurs à la récupération des taux "
+"de change."
+
+#: modules/currency/mod.php:1093
+#, php-format
+msgid ""
+"Insert the Open Exchange Rates API key of the converter in this field. Get "
+"<a target=\"blank\" href=\"%s\"> API key </a> for the Open Exchange Rates "
+"converter. If the field is empty, Open Exchange Rates will use the default "
+"API key - this may create an error when getting the exchange rate."
+msgstr ""
+"Renseignez la clé API Open Exchange Rates dans ce champ. Obtenez une <a "
+"target=\"blank\" href=\"%s\"> clé API </a> pour le convertisseur Open "
+"Exchange Rates. Si le champ est vide, le convertisseur Open Exchange Rates "
+"utilisera une clé API par défaut - ceci peut provoquer des erreurs à la "
+"récupération des taux de change."
+
+#: classes/model.php:178
+msgid "Invalid ID"
+msgstr "ID erroné"
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr "Fichier XML invalide"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:73
+msgid "It's a temporary deactivation"
+msgstr "C’est une désactivation temporaire"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:481 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:664 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:737 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:840 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:498 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:667 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:743 
+#: modules/currency_switcher/mod.php:569 modules/currency_switcher/mod.php:980 
+#: modules/currency_switcher/mod.php:1035
+msgid "Italic"
+msgstr "Italique"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:499 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:504 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:518 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:523 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:80 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:85 
+#: modules/currency_switcher/mod.php:374 modules/currency_switcher/mod.php:379 
+#: modules/currency_switcher/mod.php:588 modules/currency_switcher/mod.php:593
+msgid "L"
+msgstr "grand"
+
+#: classes/tables/modules_type.php:8 classes/tables/modules.php:7
+msgid "Label"
+msgstr "Étiquette"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:171 
+#: modules/currency_switcher/mod.php:390 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:92
+msgid "Layout"
+msgstr "Mise en page"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:212 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:218 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:83 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:89 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:199 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:205 
+#: modules/currency/mod.php:745 modules/currency_switcher/mod.php:416 
+#: modules/currency_switcher/mod.php:420 modules/currency_switcher/mod.php:437 
+#: modules/currency_switcher/mod.php:441 modules/currency_switcher/mod.php:458 
+#: modules/currency_switcher/mod.php:464
+msgid "left"
+msgstr "à gauche"
+
+#: modules/currency/mod.php:747
+msgid "left space"
+msgstr "avec un espace à gauche"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:916 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:231 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:886 
+#: modules/currency_switcher/mod.php:1232 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:86 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:151 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:95
+msgid "less"
+msgstr "moins"
+
+#: modules/promo/views/tpl/welcomePage.php:53
+msgid "Let's Start!"
+msgstr "Allons-y !!"
+
+#: ../woocurrency-by-woobewoo-pro/license/mod.php:78
+msgid "License"
+msgstr "Licence"
+
+#: ../woocurrency-by-woobewoo-pro/license/models/license.php:205
+#, php-format
+msgid "License for plugin %s will expire in %d days."
+msgstr "La licence de l’extension %s expirera dans %d jours."
+
+#: ../woocurrency-by-woobewoo-pro/license/models/license.php:201
+#, php-format
+msgid "License for plugin %s will expire today."
+msgstr "La licence de l’extension %1$s expire aujourd’hui."
+
+#: ../woocurrency-by-woobewoo-pro/license/models/license.php:203
+#, php-format
+msgid "License for plugin %s will expire tomorrow."
+msgstr "La licence de l’extension %1$s expirera demain."
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:31
+msgid "License Key"
+msgstr "Clé de licence"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/views/tpl/currencySwitcherPopupMessage.php:15
+#, php-format
+msgid ""
+"Looks like you are in the <strong>%s</strong>. Would you like to change "
+"currency?"
+msgstr ""
+"Il semblerait que vous soyez en <strong>%s</strong>. Souhaitez-vous changer "
+"de devise ?"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:498 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:503 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:517 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:522 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:79 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:84 
+#: modules/currency_switcher/mod.php:373 modules/currency_switcher/mod.php:378 
+#: modules/currency_switcher/mod.php:587 modules/currency_switcher/mod.php:592
+msgid "M"
+msgstr "Moyen"
+
+#: modules/mail/mod.php:190
+msgid "Mail"
+msgstr "Mail"
+
+#: modules/mail/mod.php:192
+msgid "Mail function tested and work"
+msgstr "La fonction Mail est testée et fonctionne"
+
+#: modules/promo/mod.php:110
+msgid "Mailrelay - PRO"
+msgstr "Mailrelay - PRO"
+
+#: modules/currency/views/tpl/currencyTabContent.php:55 
+#: modules/currency/views/tpl/currencyTabContent.php:56 
+#: modules/currency/views/tpl/old/currenciesTab.php:23 
+#: modules/currency/views/tpl/old/currenciesTab.php:24
+msgid "Main Currency"
+msgstr "Devise principale"
+
+#: modules/currency/mod.php:764
+msgid "Main Home page"
+msgstr "Page principale"
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr "La page principale va ici !!!!"
+
+#: modules/currency/views/tpl/currencyTabContent.php:15
+msgid "Manual Prices"
+msgstr "Prix manuels"
+
+#: modules/currency/views/tpl/currencyTabContent.php:34
+msgid "Manual Rates "
+msgstr "Taux manuels "
+
+#: modules/promo/mod.php:198
+msgid "Message"
+msgstr "Message"
+
+#: ../woocurrency-by-woobewoo-pro/flags/controller.php:11 
+#: ../woocurrency-by-woobewoo-pro/flags/controller.php:14
+msgid "Missing File"
+msgstr "Fichier manquant"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:270 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:338 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:257 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:325 
+#: modules/currency_switcher/mod.php:655 modules/currency_switcher/mod.php:724
+msgid "mobile"
+msgstr "mobile"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:885 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:200 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:855 
+#: modules/currency_switcher/mod.php:1203
+msgid "Mobile and Desktop"
+msgstr "Mobile et ordinateur"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:886 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:201 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:856 
+#: modules/currency_switcher/mod.php:1204 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:71 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:136 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:80
+msgid "mobiles"
+msgstr "mobiles"
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr "modifier_horodatage"
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr "Erreur lors de la mise à jour smartphone"
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr "Smartphone mis à jour"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:917 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:232 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:887 
+#: modules/currency_switcher/mod.php:1233 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:87 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:152 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:96
+msgid "more"
+msgstr "plus"
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "Plus d’extensions pour votre site WordPress ici !"
+
+#: modules/currency_switcher/mod.php:244
+msgid "Move current currency to top"
+msgstr "Placer la devise courante en premier"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: modules/promo/mod.php:188 modules/currency/views/tpl/old/currenciesTab.php:5
+msgid "Name"
+msgstr "Nom"
+
+#: modules/promo/views/tpl/overviewTabContent.php:49
+msgid "News"
+msgstr "Nouveautés"
+
+#: modules/promo/views/tpl/adminTour.php:9
+msgid "Next"
+msgstr "Suivant"
+
+#: modules/promo/views/promo.php:51 modules/promo/views/promo.php:56 
+#: modules/promo/views/promo.php:58 modules/promo/views/promo.php:59
+msgid "No"
+msgstr "Non"
+
+#: modules/currency_widget/controller.php:23 
+#: modules/currency/models/currency.php:170
+#, php-format
+msgid "no data for %s"
+msgstr "aucune donnée pour %s"
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr "Aucun module trouvé dans le fichier XML"
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr "Aucun fichier XML n’a été trouvé"
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+"Non, j’ai besoin de contacter mon hébergeur avec un problème de fonction de "
+"messagerie."
+
+#: modules/promo/mod.php:39 modules/promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "Peut-être plus tard"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Non sélectionné"
+
+#: classes/table.php:277
+msgid "Nothing to update"
+msgstr "Pas de mise à jour"
+
+#: modules/mail/mod.php:193
+msgid "Notify Email"
+msgstr "Email de notification"
+
+#: modules/promo/mod.php:38 modules/promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "Oui, tu le mérites"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:152 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:157 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:161 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:166 
+#: modules/currency_switcher/mod.php:226 modules/currency_switcher/mod.php:231
+msgid "on click"
+msgstr "au clic"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:153 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:158 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:162 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:167 
+#: modules/currency_switcher/mod.php:227 modules/currency_switcher/mod.php:232
+msgid "on hover"
+msgstr "au survol"
+
+#: ../woocurrency-by-woobewoo-pro/update_rates/mod.php:48
+msgid "Once every 12 hours"
+msgstr "Toutes les 12 heures"
+
+#: ../woocurrency-by-woobewoo-pro/update_rates/mod.php:52
+msgid "Once every day"
+msgstr "Chaque jour"
+
+#: ../woocurrency-by-woobewoo-pro/update_rates/mod.php:44
+msgid "Once every hour"
+msgstr "Chaque heure"
+
+#: ../woocurrency-by-woobewoo-pro/update_rates/mod.php:40
+msgid "Once every minute"
+msgstr "Chaque minute"
+
+#: ../woocurrency-by-woobewoo-pro/update_rates/mod.php:56
+msgid "Once every week"
+msgstr "Chaque semaine"
+
+#: modules/currency/mod.php:1094
+msgid "Open Exchange Rates API key"
+msgstr "Clé API Open Exchange Rates"
+
+#: modules/currency/views/tpl/currencyTabContent.php:6
+msgid "Options"
+msgstr "Options"
+
+#: modules/promo/mod.php:196 modules/promo/views/tpl/pluginDeactivation.php:79
+msgid "Other"
+msgstr "Autre"
+
+#: modules/promo/mod.php:96
+msgid "Overview"
+msgstr "Aperçu"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:963 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:976 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:278 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:291 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:933 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:946 
+#: modules/currency_switcher/mod.php:1279 
+#: modules/currency_switcher/mod.php:1292
+msgid "Pages"
+msgstr "Pages"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:372 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:361 
+#: modules/currency_switcher/mod.php:796 modules/currency_switcher/mod.php:812
+msgid "panel"
+msgstr "panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:758 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:764
+msgid "Panel background color"
+msgstr "Couleur de fond du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:684 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:689 
+#: modules/currency_switcher/mod.php:925
+msgid "Panel header background color"
+msgstr "Couleur de fond de l’en-tête du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:622 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:625 
+#: modules/currency_switcher/mod.php:938
+msgid "Panel header font setting"
+msgstr "Paramètre de police de l’en-tête du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:609 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:611 
+#: modules/currency_switcher/mod.php:904
+msgid "Panel header text"
+msgstr "Texte de l'en-tête du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:675 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:680 
+#: modules/currency_switcher/mod.php:916
+msgid "Panel header text color"
+msgstr "Couleur du texte de l’en-tête du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:439 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:456
+msgid "Panel opening button font setting"
+msgstr "Paramètres de police du bouton d’ouverture du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:492 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:511 
+#: modules/currency_switcher/mod.php:581
+msgid "Panel opening button size"
+msgstr "Taille du bouton d’ouverture du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:426 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:442
+msgid "Panel opening button text"
+msgstr "Texte du bouton d’ouverture du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:749 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:755
+msgid "Panel text color"
+msgstr "Couleur du texte du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:694 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:700 
+#: modules/currency_switcher/mod.php:993
+msgid "Panel text font setting"
+msgstr "Paramètre de police du texte du panneau"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:192 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:179
+msgid "Panel width"
+msgstr "Largeur du panneau"
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr "Paramètres"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1048 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:1018 
+#: modules/currency_switcher/mod.php:1376
+msgid "PHP Shortcode"
+msgstr "Code court PHP"
+
+#: modules/currency_switcher/mod.php:1412
+msgid "PHP Shortcode (widget version)"
+msgstr "Code court PHP (version widget)"
+
+#: modules/currency_switcher/mod.php:1394
+msgid "PHP Shortcode extended <sup>PRO</sup>"
+msgstr "Code court PHP évolué <sup>PRO</sup>"
+
+#: modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" "
+"class=\"button\">Get PRO</a> today and get this and other PRO option!"
+msgstr ""
+"Attention cette option est disponible uniquement dans la <a "
+"target=\"_blank\" href=\"%s\">version PRO</a>. Vous pouvez <a "
+"target=\"_blank\" href=\"%s\" class=\"button\">passer en PRO</a> aujourd’hui "
+"et obtenir cela et d’autres options PRO !"
+
+#: modules/options/views/tpl/optionsAdminPage.php:37
+#, php-format
+msgid ""
+"Please be advised that this template with all other options and PRO "
+"templates is available only in <a target=\"_blank\" href=\"%s\">PRO "
+"version</a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get "
+"PRO</a> today and get this and other PRO features!"
+msgstr ""
+"Attention ce modèle ainsi que d’autres options et d’autres modèles PRO sont "
+"disponibles uniquement dans la <a target=\"_blank\" href=\"%s\">version "
+"PRO</a>. Vous pouvez <a target=\"_blank\" href=\"%s\" class=\"button\">"
+"passer en PRO</a> aujourd’hui et obtenir cela et d’autres fonctionnalités "
+"PRO !"
+
+#: modules/promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr "Veuillez saisir %s"
+
+#: modules/promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Veuillez entrer un courriel valide"
+
+#: ../woocurrency-by-woobewoo-pro/license/models/license.php:56
+msgid "Please enter your Email address"
+msgstr "Veuillez entrer votre courriel"
+
+#: ../woocurrency-by-woobewoo-pro/license/models/license.php:54
+msgid "Please enter your License Key"
+msgstr "Veuillez entrer votre clé de licence"
+
+#: modules/currency/views/tpl/currencyTabContent.php:303
+msgid "Please input value in string format. Example: ASD"
+msgstr "Veuillez entrer une valeur au format caractère. Exemple: ASD"
+
+#: modules/currency/views/tpl/currencyTabContent.php:297
+msgid "Please remove duplicate currencies before saving."
+msgstr "Veuillez supprimer les devises en double avant d’enregistrer."
+
+#: modules/promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr "Veuillez sélectionner %s"
+
+#: modules/currency/views/tpl/currencyTabContent.php:291
+msgid "Please set a main currency before getting the exchange rate."
+msgstr ""
+"Veuillez définir une devise principale avant de récupérer le taux de change."
+
+#: modules/currency/views/tpl/currencyTabContent.php:294
+msgid "Please set a main currency before saving."
+msgstr "Veuillez définir une devise principale avant d’enregistrer."
+
+#: modules/currency/views/tpl/currencyTabContent.php:300
+msgid "Please set current rate format before saving. Example: 1.584"
+msgstr ""
+"Veuillez définir le format du taux courant avant d’enregistrer. Par exemple: "
+"1.584"
+
+#: modules/promo/mod.php:193
+msgid "Plugin options"
+msgstr "Options de l’extension"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:206 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:78 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:194 
+#: modules/currency_switcher/mod.php:411 modules/currency_switcher/mod.php:432 
+#: modules/currency_switcher/mod.php:453 
+#: modules/currency/views/tpl/currencyTabContent.php:31 
+#: modules/currency/views/tpl/old/currenciesTab.php:9
+msgid "Position"
+msgstr "Position"
+
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:39
+msgid "Press \"Save changes\" before upload"
+msgstr "Cliquez sur \"Enregistrer les changements\" avant de téléverser"
+
+#: modules/currency/views/tpl/currencyTabContent.php:306
+msgid ""
+"Prices in this currency are shown on frontend when user first time visits "
+"store."
+msgstr ""
+"Les prix dans cette devise sont affichés lors de la première visite des "
+"utilisateurs sur la boutique ."
+
+#: modules/promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr "PRO"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:59
+msgid "PRO option"
+msgstr "Option PRO"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:989 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1002 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:304 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:317 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:959 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:972 
+#: modules/currency_switcher/mod.php:1305 
+#: modules/currency_switcher/mod.php:1318
+msgid "Product categories"
+msgstr "Catégories de produit"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:196 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:251 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:255 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:284 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:288 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:319 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:323 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:352 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:356 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:455 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:576 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:580 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:638 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:711 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:814 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:935 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:116 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:179 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:183 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:250 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:183 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:238 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:242 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:271 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:275 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:306 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:310 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:339 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:343 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:472 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:595 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:599 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:641 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:717 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:905 
+#: modules/currency_switcher/mod.php:543 modules/currency_switcher/mod.php:636 
+#: modules/currency_switcher/mod.php:640 modules/currency_switcher/mod.php:669 
+#: modules/currency_switcher/mod.php:673 modules/currency_switcher/mod.php:704 
+#: modules/currency_switcher/mod.php:708 modules/currency_switcher/mod.php:738 
+#: modules/currency_switcher/mod.php:742 modules/currency_switcher/mod.php:867 
+#: modules/currency_switcher/mod.php:871 modules/currency_switcher/mod.php:954 
+#: modules/currency_switcher/mod.php:1009 
+#: modules/currency_switcher/mod.php:1251 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:97 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:162 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:106
+msgid "px"
+msgstr "px"
+
+#: modules/currency_switcher/mod.php:782
+msgid "px "
+msgstr "px "
+
+#: modules/currency_widget/classes/wcuCurrencyRatesWidget.php:12
+msgid "Rates"
+msgstr "Taux"
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:47
+msgid "Re-activate"
+msgstr "Réactiver"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:103 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:107 
+#: modules/currency_switcher/mod.php:760 modules/currency_switcher/mod.php:764
+msgid "rectangular"
+msgstr "rectangulaire"
+
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:40
+#:  
+#: ../woocurrency-by-woobewoo-pro/custom_currency/views/tpl/customCurrency.php:92
+#:  ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:40 
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:87 
+#: modules/currency/views/tpl/currencyTabContent.php:141 
+#: modules/currency/views/tpl/old/currenciesTab.php:74
+msgid "Remove"
+msgstr "Supprimer"
+
+#: ../woocurrency-by-woobewoo-pro/license/mod.php:104
+msgid "Renew License"
+msgstr "Renouveler la Licence"
+
+#: modules/promo/mod.php:194
+msgid "Report a bug"
+msgstr "Reporter un bug"
+
+#: modules/promo/mod.php:195
+msgid "Require a new functionality"
+msgstr "Demander une nouvelle fonctionnalité"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:213 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:219 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:84 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:90 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:200 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:206 
+#: modules/currency/mod.php:746 modules/currency_switcher/mod.php:417 
+#: modules/currency_switcher/mod.php:421 modules/currency_switcher/mod.php:438 
+#: modules/currency_switcher/mod.php:442 modules/currency_switcher/mod.php:459 
+#: modules/currency_switcher/mod.php:465
+msgid "right"
+msgstr "à droite"
+
+#: modules/currency/mod.php:748
+msgid "right space"
+msgstr "avec un espace à droite"
+
+#: modules/currency_switcher/mod.php:188
+msgid "Rotating"
+msgstr "Rotatif"
+
+#: modules/currency_switcher/mod.php:1161
+msgid "Rotating block background color"
+msgstr "Couleur de fond du bloc rotatif"
+
+#: modules/currency_switcher/mod.php:1123
+msgid "Rotating block text color"
+msgstr "Couleur du texte du bloc rotatif"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:130
+msgid "Rounding rates"
+msgstr "Arrondi des taux"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:129
+msgid "Rounding rates to decimal places."
+msgstr "Arrondit les taux aux décimales choisies."
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:800
+msgid "Rows stripping"
+msgstr "Rainurage des lignes"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:497 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:502 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:516 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:521 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:78 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:83 
+#: modules/currency_switcher/mod.php:372 modules/currency_switcher/mod.php:377 
+#: modules/currency_switcher/mod.php:586 modules/currency_switcher/mod.php:591
+msgid "S"
+msgstr "Petit"
+
+#: modules/promo/mod.php:115
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr "SalesForce - Web-to-Lead - PRO"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6 
+#: modules/mail/views/tpl/mailAdmin.php:69
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: modules/currency/mod.php:1119
+msgid "Save the current rate in the order"
+msgstr "Enregistrer le taux courant dans la commande"
+
+#: classes/field.php:131
+msgid "Select"
+msgstr "Sélectionner"
+
+#: classes/html.php:745
+#, php-format
+msgid "Select %s"
+msgstr "Sélectionner %s"
+
+#: ../woocurrency-by-woobewoo-pro/manual_prices/mod.php:81
+msgid "Select currencies"
+msgstr "Sélectionner les devises"
+
+#: modules/currency_switcher/mod.php:182
+msgid "Select currency switcher type."
+msgstr "Sélectionnez le type de sélecteur de devise."
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:121 
+#: modules/currency_switcher/mod.php:199
+msgid "Select design of panel for Currency Switcher Simple."
+msgstr ""
+"Sélectionnez l’apparence du panneau pour le sélecteur de devise simple."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:438 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:455
+msgid "Select opening button font setting."
+msgstr "Sélectionnez les paramètres de police du bouton d’ouverture."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:945 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:260 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:915 
+#: modules/currency_switcher/mod.php:1261
+msgid ""
+"Select pages from the list on which you want to display the panel or select "
+"\"Enable\" to display the panel on each page."
+msgstr ""
+"Sélectionnez dans la liste les pages sur lesquelles vous voulez que le "
+"panneau soit affiché ou sélectionnez \"Activer\" pour afficher le panneau "
+"sur chaque page."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:961 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:276 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:931 
+#: modules/currency_switcher/mod.php:1277
+msgid ""
+"Select pages from the list on which you want to hide or display module. If "
+"you turn Display everywhere on - module will be hidden on selected pages. If "
+"Display everywhere off - module will be displayed only on the selected pages."
+msgstr ""
+"Sélectionnez dans la liste les pages sur lesquels vous voulez masquer ou "
+"afficher le module. Si vous activez Afficher partout, le module sera masqué "
+"sur les pages choisies. Si Afficher partout est désactivé, le module sera "
+"affiché uniquement sur les pages choisies."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:621 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:693 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:796 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:624 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:699 
+#: modules/currency_switcher/mod.php:937
+msgid "Select panel header font setting."
+msgstr "Sélectionnez les paramètres de police de l’en-tête du panneau."
+
+#: modules/currency_switcher/mod.php:992
+msgid "Select panel text font setting."
+msgstr ""
+"Sélectionnez les paramètres de police du texte de l’en-tête du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:987 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:302 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:957 
+#: modules/currency_switcher/mod.php:1303
+msgid ""
+"Select product categories from the list on which you want to hide or display "
+"module. If you turn Display everywhere on - module will be hidden on "
+"selected pages. If Display everywhere off - module will be displayed only on "
+"the selected pages."
+msgstr ""
+"Sélectionnez dans la liste les catégories sur lesquels vous voulez masquer "
+"ou afficher le module. Si vous activez Afficher partout, le module sera "
+"masqué sur les pages choisies. Si Afficher partout est désactivé, le module "
+"sera affiché uniquement sur les pages choisies."
+
+#: modules/currency_switcher/mod.php:526
+msgid "Select switcher opening button font setting."
+msgstr ""
+"Sélectionnez les paramètres de police du bouton d’ouverture du sélecteur ."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:881 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:196 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:851 
+#: modules/currency_switcher/mod.php:1199
+msgid "Select the devices on which the panel should be displayed."
+msgstr "Sélectionnez les appareils sur lesquels le panneau sera affiché."
+
+#: modules/currency/mod.php:1007
+msgid ""
+"Select your preferred currency aggregator to get the exchange rate. If you "
+"use cryptocurrency for trading, it is recommended to use the "
+"\"Cryptocompare\" aggregator."
+msgstr ""
+"Choisissez votre agrégateur de devise préféré pour obtenir les taux de "
+"change. Si vous utilisez des cryptomonnaies pour vos transferts, il est "
+"recommandé d'utiliser l'agrégateur \"Cryptocompare\"."
+
+#: modules/currency_switcher/mod.php:1074 
+#: modules/currency_switcher/mod.php:1112 
+#: modules/currency_switcher/mod.php:1150 
+#: modules/currency_switcher/mod.php:1188
+msgid "selected"
+msgstr "sélectionné"
+
+#: modules/promo/views/tpl/overviewTabContent.php:93
+msgid "Send email"
+msgstr "Envoyer l’email"
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "Envoyer le test"
+
+#: modules/promo/mod.php:106
+msgid "SendGrid - PRO"
+msgstr "SendGrid - PRO"
+
+#: modules/promo/mod.php:118
+msgid "SendinBlue - PRO"
+msgstr "SendinBlue - PRO"
+
+#: modules/currency/mod.php:1146
+msgid ""
+"Sends to admin email notice with result values of automatic exchange rates "
+"update."
+msgstr ""
+"Envoie à l'administrateur un courriel de notification avec les valeurs "
+"résultant de la mise à jour automatique des taux de change."
+
+#: modules/promo/views/tpl/overviewTabContent.php:35
+msgid "Server Settings"
+msgstr "Réglages serveur"
+
+#: modules/currency/models/currency.php:201 
+#: modules/currency/models/currency.php:261 
+#: modules/currency/models/currency.php:276 
+#: modules/currency/models/currency.php:308 
+#: modules/currency/models/currency.php:329 
+#: modules/currency/models/currency.php:357 
+#: modules/currency/models/currency.php:376 
+#: modules/currency/models/currency.php:395
+#, php-format
+msgid "set %s as main"
+msgstr "définir %s en tant que principal"
+
+#: modules/currency/views/tpl/currencyTabContent.php:55 
+#: modules/currency/views/tpl/currencyTabContent.php:56 
+#: modules/currency/views/tpl/old/currenciesTab.php:23 
+#: modules/currency/views/tpl/old/currenciesTab.php:24
+msgid "Set as Main"
+msgstr "Définir en tant que principal"
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:103
+msgid "Set currencies automatic by default with GeoIP"
+msgstr ""
+"Définir les devises automatiquement par défaut selon la localisation GeoIP"
+
+#: modules/currency/models/currency.php:168
+msgid "set main currency"
+msgstr "définit la devise principale"
+
+#: ../woocurrency-by-woobewoo-pro/manual_prices/mod.php:69
+msgid "Set manual prices for all currencies"
+msgstr "Définir manuellement des prix pour toutes les devises"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:558 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:160 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:576
+msgid "Set opening button border-radius."
+msgstr "Sélectionnez la rayon de courbure du bouton d’ouverture."
+
+#: modules/currency_switcher/mod.php:849
+msgid "Set panel border-radius."
+msgstr "Sélectionnez le rayon de courbure du bord du panneau."
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:36 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:71
+msgid "set the currency's display name for currencies dropdown list"
+msgstr ""
+"définit le nom d’affichage de la devise dans la liste déroulante de devises"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:407 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:398
+msgid "Set the display order and what to display in the dropdown select list."
+msgstr ""
+"Définit l’ordre d’affichage et ce qu’il faut afficher dans la liste "
+"déroulante de sélection."
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:416 
+#: modules/currency_switcher/mod.php:347
+msgid "Set the display order and what to display in the list."
+msgstr "Définissez l’ordre d’affichage et quoi afficher dans la liste."
+
+#: modules/currency_switcher/mod.php:776
+msgid "Set the distance between currency blocks (margin)"
+msgstr "Définissez la distance entre les bloc de devises (marge)"
+
+#: modules/currency_switcher/mod.php:410
+msgid ""
+"Set the horizontal и vertical offset value according to the selected "
+"position of layout design"
+msgstr ""
+"Définie le décalage horizontal et vertical selon la position choisie de "
+"l’apparence"
+
+#: modules/options/mod.php:51 modules/adminmenu/mod.php:14
+msgid "Settings"
+msgstr "Réglages"
+
+#: modules/currency/views/tpl/old/designTab.php:1
+msgid "Settings for Currency Switcher for change currency on frontend."
+msgstr ""
+"Paramètres pour le sélecteur de devise pour modifier la devise sur le site "
+"vitrine."
+
+#: modules/promo/mod.php:112
+msgid "SG Autorepondeur - PRO"
+msgstr "SG Autorepondeur - PRO"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1039 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:1009 
+#: modules/currency_switcher/mod.php:1367
+msgid "Shortcode"
+msgstr "Code court"
+
+#: modules/currency_switcher/mod.php:1403
+msgid "Shortcode (widget verstion)"
+msgstr "Code court (version widget)"
+
+#: modules/currency_switcher/mod.php:1385
+msgid "Shortcode extended <sup>PRO</sup>"
+msgstr "Code court évolué <sup>PRO</sup>"
+
+#: modules/currency_switcher/mod.php:297
+msgid "Show"
+msgstr "Afficher"
+
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:27
+msgid "Show as"
+msgstr "Afficher en tant que"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:534 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:137 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:553 
+#: modules/currency_switcher/mod.php:837
+msgid "Show border"
+msgstr "Afficher la bordure"
+
+#: modules/currency_switcher/mod.php:262 modules/currency_switcher/mod.php:273
+msgid "Show currency flag in Currency Switcher Rotating."
+msgstr "Affiche le drapeaux sur le sélecteur de devise rotatif."
+
+#: modules/currency_switcher/mod.php:284
+msgid "Show currency flag in Currency Switcher Simple."
+msgstr "Affiche le drapeau de la devise dans le sélecteur de devise simple."
+
+#: modules/currency_switcher/mod.php:476
+msgid "Show currency flag in opening button."
+msgstr "Affiche le drapeau de la devise sur le bouton d’ouverture."
+
+#: modules/currency_switcher/mod.php:324
+msgid "Show currency flag in order list for Currency Switcher Floating."
+msgstr "Affiche le drapeau dans la liste pour le sélecteur de devise flottant."
+
+#: modules/currency_switcher/mod.php:335
+msgid "Show currency rates in order list for Currency Switcher Floating."
+msgstr ""
+"Affiche le taux de change dans la liste pour le sélecteur de devise flottant."
+
+#: modules/currency_switcher/mod.php:255
+msgid "Show currency symbols"
+msgstr "Montrer les symboles des devises"
+
+#: modules/currency_switcher/mod.php:254
+msgid "Show currency symbols in Currency Switcher Rotating."
+msgstr "Affiche les symboles de devise sur le sélecteur de devise rotatif."
+
+#: modules/currency_switcher/mod.php:243
+msgid "Show current currency at the top of the panel."
+msgstr "Affiche la devise courante en premier dans le panneau."
+
+#: modules/currency_switcher/mod.php:605
+msgid "Show current currency only"
+msgstr "Montrer uniquement la devise actuelle"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:44 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:79 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:61
+msgid "show flag in dropdown"
+msgstr "afficher le drapeau dans la liste déroulante"
+
+#: modules/currency_switcher/mod.php:477
+msgid "Show flags in button"
+msgstr "Afficher les drapeaux dans le bouton"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:52
+msgid "show flags in currency list"
+msgstr "afficher les drapeaux dans la liste de devises"
+
+#: modules/currency_switcher/mod.php:325
+msgid "Show flags in order"
+msgstr "Afficher les drapeaux dans la commande"
+
+#: modules/currency_switcher/mod.php:263 modules/currency_switcher/mod.php:274
+msgid "Show flags in Rotating"
+msgstr "Afficher les drapeaux en mode Rotatif"
+
+#: modules/currency_switcher/mod.php:285
+msgid "Show flags in Simple"
+msgstr "Afficher les drapeaux simples"
+
+#: modules/currency_switcher/mod.php:348
+msgid "Show floating order"
+msgstr "Afficher l’ordre flottant"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:595 
+#: modules/currency_switcher/mod.php:892
+msgid "Show header"
+msgstr "Afficher l’en-tête"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:408 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:399
+msgid "Show in currency dropdown"
+msgstr "Afficher dans la liste déroulante de devises"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:417
+msgid "Show in currency list"
+msgstr "Afficher dans la liste des devises"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:774
+msgid "Show inner border"
+msgstr "Afficher la bordure interne"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:882 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:913 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:197 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:228 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:852 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:883 
+#: modules/currency_switcher/mod.php:1200 
+#: modules/currency_switcher/mod.php:1229 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:65 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:130 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:74
+msgid "Show on"
+msgstr "Afficher sur"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:900 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:215 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:870 
+#: modules/currency_switcher/mod.php:1217
+msgid "Show on screen size"
+msgstr "Afficher sur un écran de taille"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:82 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:147 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:91
+msgid "Show on screen widths"
+msgstr "Afficher sur les largeurs d’écran"
+
+#: modules/currency_switcher/mod.php:604
+msgid "Show only current currency in opening button."
+msgstr "Affiche uniquement la devise actuelle sur le bouton d'ouverture."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:533 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:552
+msgid "Show opening button outer border."
+msgstr "Affiche la bordure extérieure du bouton d’ouverture."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:769 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:825
+msgid "Show outer border"
+msgstr "Afficher la bordure externe"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:823
+msgid "Show outer border for panel."
+msgstr "Affiche une  bordure extérieure pour le panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:146 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:155 
+#: modules/currency_switcher/mod.php:220
+msgid "Show panel by mouse hover or click."
+msgstr "Affiche le panneau au clic ou au survol."
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:773
+msgid "Show panel inner border."
+msgstr "Affiche la bordure intérieure du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:768 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:136 
+#: modules/currency_switcher/mod.php:836
+msgid "Show panel outer border."
+msgstr "Affiche la bordure externe du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:594 
+#: modules/currency_switcher/mod.php:891
+msgid "Show panel title."
+msgstr "Affiche le titre du panneau."
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:138 
+#: modules/currency_switcher/mod.php:1353
+msgid ""
+"Show popup message \"Do you want change currency?\". Read more in the <a "
+"href=\"https://woobewoo.com/documentation/currency-switcher-mode/\">"
+"documentation</a>."
+msgstr ""
+"Afficher un message surgissant pour \"Voulez-vous changer de devise ?\". "
+"Apprenez-en plus dans la <a href=\"https://woobewoo."
+"com/documentation/currency-switcher-mode/\">documentation</a>."
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:139 
+#: modules/currency_switcher/mod.php:1354
+msgid "Show popup message for switcher"
+msgstr "Afficher un message surgissant pour le sélecteur"
+
+#: modules/currency_switcher/mod.php:336
+msgid "Show rates in order"
+msgstr "Afficher les taux dans la commande"
+
+#: modules/currency_switcher/mod.php:186
+msgid "Simple"
+msgstr "Simple"
+
+#: modules/promo/mod.php:45
+msgid "Skip"
+msgstr "Passer"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:89
+msgid "Skip & Deactivate"
+msgstr "Passer et désactiver"
+
+#: modules/promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr "Passer le tutoriel"
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr "temps_passé"
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17 
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "Passer le mot !"
+
+#: modules/currency_switcher/mod.php:1050 
+#: modules/currency_switcher/mod.php:1088 
+#: modules/currency_switcher/mod.php:1126 
+#: modules/currency_switcher/mod.php:1164
+msgid "static"
+msgstr "statique"
+
+#: modules/promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr "Tutoriel pas-à-pas"
+
+#: modules/promo/mod.php:191
+msgid "Subject"
+msgstr "Objet"
+
+#: modules/promo/views/tpl/adminFooter.php:15 
+#: modules/promo/views/tpl/welcomePage.php:23
+msgid "Support"
+msgstr "Service Client"
+
+#: modules/currency_widget/classes/wcuCurrencySwitcherWidget.php:12
+msgid "Switcher"
+msgstr "Sélecteur"
+
+#: modules/currency_switcher/mod.php:490
+msgid "Switcher opening button"
+msgstr "Bouton d’ouverture du sélecteur"
+
+#: modules/currency_switcher/mod.php:527
+msgid "Switcher opening button font setting"
+msgstr "Réglage de la police du bouton d’ouverture du sélecteur"
+
+#: modules/currency_switcher/mod.php:1384
+msgid "switcher-extended.png\" />"
+msgstr "switcher-extended.png\" />"
+
+#: modules/currency_switcher/mod.php:1393
+msgid "switcher-extended.png\"/>"
+msgstr "switcher-extended.png\"/>"
+
+#: modules/currency/views/tpl/currencyTabContent.php:30 
+#: modules/currency/views/tpl/old/currenciesTab.php:7 
+#: modules/currency/views/tpl/old/currenciesTab.php:8
+msgid "Symbol"
+msgstr "Symbole"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Taux de taxe"
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr "Test des paramètres de messagerie"
+
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:162 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:168 
+#: modules/currency_switcher/mod.php:497 modules/currency_switcher/mod.php:502
+msgid "text"
+msgstr "texte"
+
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:103 
+#: modules/currency_switcher/mod.php:1047
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:515 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:534
+msgid "Text color for opening button"
+msgstr "Couleur du texte du bouton d’ouverture"
+
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:112
+msgid "Text size"
+msgstr "Taille du texte"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:920 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:235 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:890 
+#: modules/currency_switcher/mod.php:1236 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:91 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:156 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:100
+msgid "than"
+msgstr "que"
+
+#: modules/promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+"Merci d’avoir choisi notre extension %s. Cliquez simplement ici pour "
+"commencer à l’utiliser - et nous vous montrerons ces capacités et ses "
+"puissantes fonctionnalités."
+
+#: modules/promo/controller.php:124
+msgid "Thank you for Feedback!"
+msgstr "Merci pour votre commentaire !"
+
+#: modules/promo/views/tpl/welcomePage.php:11
+msgid "The best way to work with currency for Woocommerce Shop!"
+msgstr ""
+"La meilleure façon pour les boutiques WooCommerce de gérer les devises!"
+
+#: modules/currency/views/tpl/currencyTabContent.php:36
+msgid "The exchange fee only works with the automatic rate."
+msgstr "Les frais de change fonctionnent uniquement avec le taux automatique."
+
+#: modules/currency/mod.php:1118
+msgid ""
+"The order will always display the price that was calculated at the exchange "
+"rate at the time of purchase"
+msgstr ""
+"La commande affichera toujours le prix qui a été calculé au taux de change "
+"en vigueur au moment de l’achat"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:61 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:88 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:70
+msgid ""
+"The selected currency will not be displayed in the list of switches. Press "
+"CTRL + CLICK to toggle select."
+msgstr ""
+"La devise sélectionnée ne sera pas affichée dans la liste du convertisseur. "
+"Faites CTRL + CLIC pour modifier cela."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1038 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:1047 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:1008 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:1017 
+#: modules/currency_switcher/mod.php:1366 
+#: modules/currency_switcher/mod.php:1375 
+#: modules/currency_switcher/mod.php:1411
+msgid "The shortcode can take parameters, read more in the documentation."
+msgstr ""
+"Le code court peut accepter des paramètres, consultez la documentation pour "
+"en savoir plus."
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Il n’y a aucune option configurée pour ce module"
+
+#: modules/promo/views/tpl/overviewTabContent.php:16
+msgid "There is no main FAQs for now"
+msgstr "Il n’y a aucune FAQ principale pour le moment"
+
+#: ../woocurrency-by-woobewoo-pro/license/models/license.php:155
+msgid ""
+"There was a problem with sending request to our authentication server. "
+"Please try later."
+msgstr ""
+"Un problème est survenu lors de l’envoi de la requête à notre serveur "
+"d’authentification. Veuillez réessayer plus tard."
+
+#: modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+"Il s’agit d’un courriel de test pour tester la fonctionnalité de la "
+"messagerie sur votre site, %s."
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr ""
+"Cette option vous permet de tester le fonctionnement de votre serveur de "
+"messagerie"
+
+#: modules/currency/views/tpl/currencyTabContent.php:33
+msgid ""
+"This rates is updated automatically with a selected Currency Aggregator."
+msgstr ""
+"Ce taux est mis à jour automatiquement avec l'agrégateur de devise choisi."
+
+#: modules/currency/views/tpl/currencyTabContent.php:34
+msgid ""
+"This value overwrites the automatic rate from field Converter Rates. Input "
+"value in follow format example: 12.5035"
+msgstr ""
+"Cette valeur remplace le taux automatique du champs Taux de change. Entrez "
+"une valeur dans le format suivant, expl: 12.5035"
+
+#: modules/currency/views/tpl/currencyTabContent.php:29 
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:10 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:45 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:10 
+#: modules/currency/views/tpl/old/currenciesTab.php:6
+msgid "Title"
+msgstr "Titre"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:414 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:405 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:423 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:429 
+#: ../woocurrency-by-woobewoo-pro/options_pro/mod.php:148 
+#: modules/currency_switcher/mod.php:354
+msgid "Titles"
+msgstr "Titres"
+
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:145
+msgid "to decimal places"
+msgstr "aux décimales choisies"
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:90
+msgid "Toggle GeoIp Rules functional"
+msgstr "Activer/désactiver l’usage des règles GeoIP"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:147 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:156
+msgid "Toggle panel"
+msgstr "Panneau de bascule"
+
+#: modules/currency_switcher/mod.php:221
+msgid "Toggle Switcher"
+msgstr "Affichage du convertisseur"
+
+#: modules/currency/views/tpl/currencyTabContent.php:8
+msgid "Tooltip"
+msgstr "Infobulle"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:214 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:220 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:85 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:91 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:201 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:207 
+#: modules/currency_switcher/mod.php:460 modules/currency_switcher/mod.php:466
+msgid "top"
+msgstr "en haut"
+
+#: modules/promo/mod.php:192
+msgid "Topic"
+msgstr "Sujet"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:368 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:357 
+#: modules/currency_switcher/mod.php:792 modules/currency_switcher/mod.php:808 
+#: modules/currency_switcher/mod.php:823
+msgid "Transparent"
+msgstr "Transparent"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52 
+#: modules/mail/views/tpl/mailAdmin.php:48
+#, php-format
+msgid "Turned Off %s"
+msgstr "Désactivé le %s"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:51 
+#: modules/mail/views/tpl/mailAdmin.php:47
+#, php-format
+msgid "Turned On %s"
+msgstr "Activé le %s"
+
+#: modules/currency_switcher/mod.php:183 classes/tables/modules.php:8
+msgid "Type"
+msgstr "Type"
+
+#: modules/currency/mod.php:1162
+msgid ""
+"Type relative links, each from a new line, to disable the display of the "
+"currency converter on these pages."
+msgstr ""
+"Entrez des liens relatifs, un par ligne, pour désactiver l'affichage du "
+"convertisseur sur ces pages."
+
+#: ../woocurrency-by-woobewoo-pro/custom_css/mod.php:40
+msgid "Type your custom CSS in this field."
+msgstr "Entrez votre CSS personnalisé dans ce champ."
+
+#: modules/currency/views/tpl/currencyTabContent.php:93
+msgid "Type your symbol for this currency. Only in PRO version."
+msgstr "Entrez votre symbole pour votre devise. Uniquement en version PRO."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:425 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:441
+msgid "Type your text for opening button."
+msgstr "Entrez votre texte pour le bouton d’ouverture."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:608 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:610 
+#: modules/currency_switcher/mod.php:903
+msgid "Type your text for panel title."
+msgstr "Entrez votre texte pour le titre du panneau."
+
+#: modules/currency/mod.php:1136
+msgid "Update Daily"
+msgstr "Mettre à jour quotidiennement"
+
+#: modules/currency/mod.php:1133
+msgid "Update Every Minute"
+msgstr "Mettre à jour chaque minute"
+
+#: modules/currency/mod.php:1134
+msgid "Update Hourly"
+msgstr "Mettre à jour chaque heure"
+
+#: modules/currency/mod.php:1135
+msgid "Update Twice Daily"
+msgstr "Mettre à jour deux fois par jour"
+
+#: modules/currency/mod.php:1137
+msgid "Update Weekly"
+msgstr "Mettre à jour hebdomadairement"
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:127
+msgid "Use custom settings"
+msgstr "Utiliser des réglages personnalisés"
+
+#: ../woocurrency-by-woobewoo-pro/geoip_rules/mod.php:115
+msgid "Use the Main currency for robots."
+msgstr "Utiliser la devise principale pour les robots."
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:134
+msgid "Use Theme styles"
+msgstr "Utiliser les styles du thème"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:133
+msgid "Use Theme styles of design for buttons, text and etc."
+msgstr "Utilise les styles du thème pour l’apparence des boutons, textes, etc…"
+
+#: modules/options/mod.php:125
+msgid "User role can use plugin"
+msgstr "Rôles utilisateur pouvant utiliser l’extrension"
+
+#: modules/options/mod.php:125
+msgid "User with next roles will have access to whole plugin from admin area."
+msgstr ""
+"Les utilisateurs avec les rôles suivants accèderont à l’ensemble de "
+"l’extension dans la zone admin."
+
+#: modules/promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Version"
+
+#: modules/currency_switcher/mod.php:396 modules/currency_switcher/mod.php:400 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:99
+msgid "Vertical"
+msgstr "Vertical"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:177 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:181
+msgid "vertical"
+msgstr "vertical"
+
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:301 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:288 
+#: modules/currency_switcher/mod.php:685
+msgid "Vertical offset"
+msgstr "Décalage vertical"
+
+#: modules/promo/mod.php:105
+msgid "Vertical Response - PRO"
+msgstr "Vertical Response - PRO"
+
+#: modules/promo/mod.php:119
+msgid "Vision6 - PRO"
+msgstr "Vision6 - PRO"
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr "visites"
+
+#: modules/promo/mod.php:120
+msgid "Vtiger - PRO"
+msgstr "Vtiger - PRO"
+
+#: modules/currency_widget/views/currency_widget.php:84
+msgid "Warning: Woocommerce is not activated!"
+msgstr "Attention: Woocommerce n’est pas activé!"
+
+#. Name of the plugin
+msgid "WBW Currency Switcher for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"WBW Currency Switcher for WooCommerce allows the customers switch products "
+"prices to any currencies. Get rates converted in the real time with dynamic "
+"currency switcher"
+msgstr ""
+"WBW Currency Switcher for WooCommerce permet à vos clients de d'afficher les "
+"prix des produits dans n'importe quelle devise. Obtenez des conversions en "
+"tant réel avec le sélecteur de devise dynamique"
+
+#: modules/promo/views/tpl/welcomePage.php:24
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+"Nous aimons notre extension et faisons de notre mieux pour en améliorer "
+"toutes les fonctionnalités pour Vous. Mais parfois un problème peut arriver "
+"ou vous ne trouvez pas la fonction dont vous avez besoin. Ne vous inquiétez "
+"pas, <a href='%s' target='_blank'>contactez nous</a> simplement et nous "
+"serons heureux de vous aider !"
+
+#: ../woocurrency-by-woobewoo-pro/flags/views/tpl/flagsSetting.php:95
+msgid ""
+"We recommend using image format (jpg, png, gif, ico) with a resolution of "
+"32x32 pixels."
+msgstr ""
+"Nous recommandons l’usage d’un format image (jpg, png, gif, ico) avec une "
+"résolution de 32x32 pixels."
+
+#: modules/promo/mod.php:190
+msgid "Website"
+msgstr "Site web"
+
+#: modules/promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr "Bienvenue dans l’extension %s  !"
+
+#: modules/promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr "Bienvenue dans %s v %s"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:82
+msgid "What is the reason?"
+msgstr "Pour quelle raison ?"
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:18 
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:53 
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:18
+msgid "Width"
+msgstr "Largeur"
+
+#: classes/field.php:314 
+#: ../woocurrency-by-woobewoo-pro/currency_converter/mod.php:919 
+#: ../woocurrency-by-woobewoo-pro/currency_tooltip/mod.php:234 
+#: ../woocurrency-by-woobewoo-pro/currency_rates/mod.php:889 
+#: modules/currency_switcher/mod.php:1235
+msgid "width"
+msgstr "largeur"
+
+#. Author of the plugin
+msgid "woobewoo"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:3
+#, php-format
+msgid "WooCurrency %s"
+msgstr "WooCurrency %s"
+
+#: modules/promo/views/promo.php:51 modules/promo/views/promo.php:56 
+#: modules/promo/views/promo.php:58 modules/promo/views/promo.php:59
+msgid "Yes"
+msgstr "Oui"
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr "Oui ! ça fonctionne !"
+
+#: modules/currency/mod.php:1105
+msgid ""
+"You can allow change currency at checkout. Please note, that some payment "
+"systems (like PayPal) could use only fixed currencies."
+msgstr ""
+"Vous pouvez autoriser le changement de devise lors du paiement. Veuillez "
+"noter que certains systèmes de paiement (comme PayPal) pourraient n'utiliser "
+"que certaines devises."
+
+#: modules/promo/mod.php:47
+#, php-format
+msgid ""
+"You can help us improve our plugin - by <a href=\"%s\" data-statistic-"
+"code=\"hide\" class=\"button button-primary wcuEnbStatsAdBtn\">enabling "
+"Usage Statistics</a>. We will collect only our plugin usage statistics data -"
+" to understand Your needs and make our solution better for You."
+msgstr ""
+"Vous pouvez nous aider à améliorer cette extension - en <a href=\"%s\" data-"
+"statistic-code=\"hide\" class=\"button button-primary wcuEnbStatsAdBtn\">"
+"activant les Statistiques d'utilisation</a>. Nous ne collecterons que les "
+"données statistiques d’usage de notre extension - pour mieux comprendre Vos "
+"besoins et rendre notre solution meilleure pour Vous."
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Vous n’avez aucune marque"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Vous n’avez aucune catégorie"
+
+#: classes/frame.php:140
+msgid "You have no permissions to view this page"
+msgstr "Vous n’avez pas les autorisations pour accéder à cette page"
+
+#: ../woocurrency-by-woobewoo-pro/license/mod.php:44
+#, php-format
+msgid ""
+"You need to activate your copy of PRO version %s plugin. Go to <a "
+"href=\"%s\">License</a> tab and finish your software activation process."
+msgstr ""
+"Vous devez activer votre copie de la version PRO de l’extension %s. Allez à "
+"l’onglet <a href=\"%s\">Licence</a> et finalisez le processus d’activation "
+"du logiciel."
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:23
+#, php-format
+msgid ""
+"Your email address, used on checkout procedure on <a href=\"%s\" "
+"target=\"_blank\">%s</a>"
+msgstr ""
+"Votre e-adresse mail, utilisée lors de l’achat sur <a href=\"%s\" "
+"target=\"_blank\">%s</a>"
+
+#: modules/promo/views/tpl/overviewTabContent.php:102
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+"Votre courriel a été envoyé, nous tenterons d'y répondre aussi vite que "
+"possible. Merci pour votre aide !"
+
+#: modules/promo/views/tpl/pluginDeactivation.php:40
+msgid "Your Feedback"
+msgstr "Votre Commentaire"
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:6
+#, php-format
+msgid ""
+"Your license for PRO version of %s plugin has expired. You can <a "
+"href=\"%s\" target=\"_blank\">click here</a> to extend your license, then - "
+"click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"La licence de la version PRO de l’extension %s a expiré. Vous pouvez <a "
+"href=\"%s\" target=\"_blank\">cliquer ici</a> pour prolonger votre licence, "
+"puis cliquez sur le bouton \"Ré-activer\" pour réactiver votre version PRO."
+
+#: ../woocurrency-by-woobewoo-pro/license/mod.php:30
+#, php-format
+msgid ""
+"Your license has expired. Once you extend your license - you will be able to "
+"Update PRO version. To extend PRO version license - follow <a href=\"%s\" "
+"target=\"_blank\">this link</a>, then - go to <a href=\"%s\">License</a> tab "
+"anc click on \"Re-activate\" button to re-activate your PRO version."
+msgstr ""
+"Votre licence a expiré. Dès que vous aurez prolongé votre licence vous "
+"pourrez mettre à jour la version PRO. Pour prolonger votre licence de la "
+"version PRO - suivez <a href=\"%s\" target=\"_blank\">ce lien</a>, pui - "
+"allez sur l’onglet <a href=\"%s\">Licence</a> et cliquez sur le bouton \"Ré-"
+"activer\" pour ré-activer votre version PRO."
+
+#: ../woocurrency-by-woobewoo-pro/license/views/tpl/licenseAdmin.php:34
+#, php-format
+msgid ""
+"Your License Key from your account on <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+"Votre clé de licence selon votre compte sur <a href=\"%s\" target=\"_blank\">"
+"%s</a>"
+
+#: modules/promo/mod.php:121
+msgid "Your Mailing List Provider (Ymlp) - PRO"
+msgstr "Your Mailing List Provider (Ymlp) - PRO"
+
+#: ../woocurrency-by-woobewoo-pro/license/mod.php:39
+#, php-format
+msgid ""
+"Your plugin PRO license is expired. It means your PRO version will work as "
+"usual - with all features and options, but you will not be able to update "
+"the PRO version and use PRO support. To extend PRO version license - follow "
+"<a href=\"%s\" target=\"_blank\">this link</a>"
+msgstr ""
+"Votre licence de l’extension PRO  est expirée. Cela signifie que votre "
+"version PRO fonctionnera comme avant, avec toutes les fonctions et options, "
+"mais vous ne serez plus capable de mettre à jour la version PRO ou d’accéder "
+"à l’assistance PRO. Pour prolonger votre licence de la version PRO - suivez "
+"<a href=\"%s\" target=\"_blank\">ce lien</a>"

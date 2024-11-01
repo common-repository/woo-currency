@@ -1,0 +1,1866 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCurrency\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-19 12:34+0300\n"
+"PO-Revision-Date: 2019-06-19 12:34+0300\n"
+"Last-Translator: woobewoo.com <woobewoo.team@gmail.com>\n"
+"Language-Team: woobewoo.com <woobewoo.team@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: classes/controller.php:207 classes/controller.php:215
+#: modules/currency/controller.php:49 modules/currency_widget/controller.php:20
+#: modules/currency_widget/controller.php:57 modules/mail/controller.php:23
+#: modules/options/controller.php:6
+#: modules/pages/views/tpl/deactivatePage.php:37
+msgid "Done"
+msgstr ""
+
+#: classes/field.php:131
+msgid "Select"
+msgstr ""
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr ""
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr ""
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr ""
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr ""
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr ""
+
+#: classes/field.php:314 modules/currency_switcher/mod.php:1195
+msgid "width"
+msgstr ""
+
+#: classes/field.php:316
+msgid "height"
+msgstr ""
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr ""
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr ""
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr ""
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr ""
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr ""
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr ""
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr ""
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr ""
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr ""
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr ""
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr ""
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr ""
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr ""
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr ""
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr ""
+
+#: classes/fieldAdapter.php:186 classes/tables/usage_stat.php:7
+msgid "id"
+msgstr ""
+
+#: classes/frame.php:140
+msgid "You have no permissions to view this page"
+msgstr ""
+
+#: classes/html.php:315
+msgid "Upload"
+msgstr ""
+
+#: classes/html.php:720
+msgid "ON"
+msgstr ""
+
+#: classes/html.php:721
+msgid "OFF"
+msgstr ""
+
+#: classes/html.php:745
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: classes/modInstaller.php:34
+#, php-format
+msgid "Move files for %s failed"
+msgstr ""
+
+#: classes/modInstaller.php:37
+#, php-format
+msgid "%s is not plugin module"
+msgstr ""
+
+#: classes/modInstaller.php:76
+msgid "Cannot create module directory. Try to set permission to "
+msgstr ""
+
+#: classes/modInstaller.php:103
+msgid "No modules were found in XML file"
+msgstr ""
+
+#: classes/modInstaller.php:107
+msgid "Invalid XML file"
+msgstr ""
+
+#: classes/modInstaller.php:109
+msgid "No XML file were found"
+msgstr ""
+
+#: classes/modInstaller.php:132
+#, php-format
+msgid "Install %s failed"
+msgstr ""
+
+#: classes/modInstaller.php:138
+msgid "Error Activate module"
+msgstr ""
+
+#: classes/modInstaller.php:168
+msgid "Error Deactivation module"
+msgstr ""
+
+#: classes/modInstaller.php:189
+msgid "Error Activating module"
+msgstr ""
+
+#: classes/model.php:176 classes/model.php:188
+msgid "Database error detected"
+msgstr ""
+
+#: classes/model.php:178
+msgid "Invalid ID"
+msgstr ""
+
+#: classes/model.php:211
+msgid "Empty or invalid ID"
+msgstr ""
+
+#: classes/table.php:277
+msgid "Nothing to update"
+msgstr ""
+
+#: classes/table.php:293
+msgid "Database error. Please contact your developer."
+msgstr ""
+
+#: classes/tables/modules.php:7 classes/tables/modules_type.php:8
+msgid "Label"
+msgstr ""
+
+#: classes/tables/modules.php:8 modules/currency_switcher/mod.php:151
+msgid "Type"
+msgstr ""
+
+#: classes/tables/modules.php:9
+msgid "Active"
+msgstr ""
+
+#: classes/tables/modules.php:10
+msgid "Params"
+msgstr ""
+
+#: classes/tables/modules.php:13
+msgid "Code"
+msgstr ""
+
+#: classes/tables/modules.php:14
+msgid "External plugin directory"
+msgstr ""
+
+#: classes/tables/modules_type.php:7
+msgid "ID"
+msgstr ""
+
+#: classes/tables/usage_stat.php:8
+msgid "code"
+msgstr ""
+
+#: classes/tables/usage_stat.php:9
+msgid "visits"
+msgstr ""
+
+#: classes/tables/usage_stat.php:10
+msgid "spent_time"
+msgstr ""
+
+#: classes/tables/usage_stat.php:11
+msgid "modify_timestamp"
+msgstr ""
+
+#: classes/validator.php:30
+#, php-format
+msgid "Invalid length for %s, max length is %s"
+msgstr ""
+
+#: classes/validator.php:43
+#, php-format
+msgid "Invalid numeric value for %s"
+msgstr ""
+
+#: classes/validator.php:71 modules/promo/controller.php:39
+#, php-format
+msgid "Please enter %s"
+msgstr ""
+
+#: classes/validator.php:78 modules/promo/controller.php:39
+#, php-format
+msgid "Please select %s"
+msgstr ""
+
+#: classes/validator.php:85 classes/validator.php:101
+#, php-format
+msgid "Invalid %s"
+msgstr ""
+
+#: classes/validator.php:88
+#, php-format
+msgid "%s is already registered"
+msgstr ""
+
+#: modules/adminmenu/mod.php:13
+#, php-format
+msgid ""
+"Cool WordPress plugins from woobewoo.com developers. I tried %s - and this "
+"was what I need! #woobewoo.com"
+msgstr ""
+
+#: modules/adminmenu/mod.php:14 modules/options/mod.php:51
+msgid "Settings"
+msgstr ""
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr ""
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr ""
+
+#: modules/currency/mod.php:369
+msgid "Currency"
+msgstr ""
+
+#: modules/currency/mod.php:400 modules/currency_switcher/mod.php:376
+#: modules/currency_switcher/mod.php:380 modules/currency_switcher/mod.php:397
+#: modules/currency_switcher/mod.php:401 modules/currency_switcher/mod.php:418
+#: modules/currency_switcher/mod.php:424
+msgid "left"
+msgstr ""
+
+#: modules/currency/mod.php:401 modules/currency_switcher/mod.php:377
+#: modules/currency_switcher/mod.php:381 modules/currency_switcher/mod.php:398
+#: modules/currency_switcher/mod.php:402 modules/currency_switcher/mod.php:419
+#: modules/currency_switcher/mod.php:425
+msgid "right"
+msgstr ""
+
+#: modules/currency/mod.php:402
+msgid "left space"
+msgstr ""
+
+#: modules/currency/mod.php:403
+msgid "right space"
+msgstr ""
+
+#: modules/currency/mod.php:419
+msgid "Main Home page"
+msgstr ""
+
+#: modules/currency/mod.php:643
+msgid ""
+"Select your preferred currency aggregator to get the exchange rate. If you "
+"use cryptocurrency for trading, it is recommended to use the \"Cryptocompare"
+"\" aggregator."
+msgstr ""
+
+#: modules/currency/mod.php:644
+msgid "Currency Aggregator"
+msgstr ""
+
+#: modules/currency/mod.php:663
+#, php-format
+msgid ""
+"Insert the free API key of the converter in this field. Read <a target="
+"\"blank\" href=\"%s\"> instructions </a> on how to get a free API key for "
+"the converter. If the field is empty, Free Converter will use the default "
+"API key - this may create an error when getting the exchange rate."
+msgstr ""
+
+#: modules/currency/mod.php:664
+msgid "Free Converter API key"
+msgstr ""
+
+#: modules/currency/mod.php:675
+msgid ""
+"You can allow change currency at checkout. Please note, that some payment "
+"systems (like PayPal) could use only fixed currencies."
+msgstr ""
+
+#: modules/currency/mod.php:676
+msgid "Change currency at checkout"
+msgstr ""
+
+#: modules/currency/mod.php:685
+msgid "Automatic update of exchange rates for the selected schedule."
+msgstr ""
+
+#: modules/currency/mod.php:686
+msgid "Automatic exchange rates updates"
+msgstr ""
+
+#: modules/currency/mod.php:686
+msgid "Automatic exchange rates updates <sup class=\"pro-label\">PRO</sup>"
+msgstr ""
+
+#: modules/currency/mod.php:689
+msgid "Enter Rates Manually"
+msgstr ""
+
+#: modules/currency/mod.php:690
+msgid "Update Every Minute"
+msgstr ""
+
+#: modules/currency/mod.php:691
+msgid "Update Hourly"
+msgstr ""
+
+#: modules/currency/mod.php:692
+msgid "Update Twice Daily"
+msgstr ""
+
+#: modules/currency/mod.php:693
+msgid "Update Daily"
+msgstr ""
+
+#: modules/currency/mod.php:694
+msgid "Update Weekly"
+msgstr ""
+
+#: modules/currency/mod.php:703
+msgid ""
+"Sends to admin email notice with result values of automatic exchange rates "
+"update."
+msgstr ""
+
+#: modules/currency/mod.php:704
+msgid "Automatic exchange rates updates (notice admin by email)"
+msgstr ""
+
+#: modules/currency/mod.php:704
+msgid ""
+"Automatic exchange rates updates (notice admin by email) <sup class=\"pro-"
+"label\">PRO</sup>"
+msgstr ""
+
+#: modules/currency/mod.php:707
+msgid "Disabled"
+msgstr ""
+
+#: modules/currency/mod.php:708
+msgid "Enabled"
+msgstr ""
+
+#: modules/currency/mod.php:719
+msgid ""
+"Type relative links, each from a new line, to disable the display of the "
+"currency converter on these pages."
+msgstr ""
+
+#: modules/currency/mod.php:720
+msgid "Disable URIs"
+msgstr ""
+
+#: modules/currency/models/currency.php:151
+msgid "set main currency"
+msgstr ""
+
+#: modules/currency/models/currency.php:153
+#: modules/currency_widget/controller.php:23
+#, php-format
+msgid "no data for %s"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:3
+#, php-format
+msgid "WooCurrency %s"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:5
+msgid "Currencies"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:6
+msgid "Options"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:7
+msgid "Frontend switcher"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:8
+msgid "Tooltip"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:9
+msgid "Currency converter"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:10
+msgid "Currency rates"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:11
+msgid "Custom CSS"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:12
+msgid "Geo IP Rules"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:13
+msgid "Custom Flags"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:14
+msgid "Custom Currencies"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:17
+#: modules/currency/views/tpl/old/currenciesTab.php:1
+msgid "Add currency"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:24
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:66
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:31
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:48
+msgid "Currency code"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:26
+msgid "Flag"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:28
+#: modules/currency/views/tpl/old/currenciesTab.php:6
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:45
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:10
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:10
+msgid "Title"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:29
+#: modules/currency/views/tpl/old/currenciesTab.php:7
+#: modules/currency/views/tpl/old/currenciesTab.php:8
+msgid "Symbol"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:30
+#: modules/currency/views/tpl/old/currenciesTab.php:9
+#: modules/currency_switcher/mod.php:371 modules/currency_switcher/mod.php:392
+#: modules/currency_switcher/mod.php:413
+msgid "Position"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:31
+msgid "Cents"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:32
+msgid "Converter Rates "
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:32
+msgid ""
+"This rates is updated automatically with a selected Currency Aggregator."
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:33
+msgid "Manual Rates "
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:33
+msgid ""
+"This value overwrites the automatic rate from field Converter Rates. Input "
+"value in follow format example: 12.5035"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:47
+msgid "Hold the cursor on the row to change the position of the currency."
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:51
+#: modules/currency/views/tpl/currencyTabContent.php:52
+#: modules/currency/views/tpl/old/currenciesTab.php:23
+#: modules/currency/views/tpl/old/currenciesTab.php:24
+msgid "Main Currency"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:51
+#: modules/currency/views/tpl/currencyTabContent.php:52
+#: modules/currency/views/tpl/old/currenciesTab.php:23
+#: modules/currency/views/tpl/old/currenciesTab.php:24
+msgid "Set as Main"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:89
+msgid "Type your symbol for this currency. Only in PRO version."
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:125
+#: modules/currency/views/tpl/old/currenciesTab.php:70
+msgid "Get rate"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:129
+#: modules/currency/views/tpl/old/currenciesTab.php:74
+msgid "Remove"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:143
+#: modules/currency/views/tpl/currencyTabContent.php:159
+#: modules/currency/views/tpl/currencyTabContent.php:183
+#: modules/currency/views/tpl/currencyTabContent.php:207
+#: modules/currency_switcher/mod.php:168
+msgid "Design"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:144
+#: modules/currency/views/tpl/currencyTabContent.php:160
+#: modules/currency/views/tpl/currencyTabContent.php:184
+#: modules/currency/views/tpl/currencyTabContent.php:208
+msgid "Display rules"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:270
+msgid "Please set a main currency before getting the exchange rate."
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:273
+msgid "Please set a main currency before saving."
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:276
+msgid "Please remove duplicate currencies before saving."
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:279
+msgid "Please set current rate format before saving. Example: 1.584"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:282
+msgid "Please input value in string format. Example: ASD"
+msgstr ""
+
+#: modules/currency/views/tpl/currencyTabContent.php:285
+msgid ""
+"Prices in this currency are shown on frontend when user first time visits "
+"store."
+msgstr ""
+
+#: modules/currency/views/tpl/old/currenciesTab.php:5 modules/promo/mod.php:188
+msgid "Name"
+msgstr ""
+
+#: modules/currency/views/tpl/old/currenciesTab.php:10
+msgid "Actions"
+msgstr ""
+
+#: modules/currency/views/tpl/old/designTab.php:1
+msgid "Settings for Currency Switcher for change currency on frontend."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:139
+msgid ""
+"Currency Switcher allows you to switch the currency of the products "
+"according to the selected settings."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:140
+msgid "Enable switcher"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:150
+msgid "Select currency switcher type."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:154
+msgid "Simple"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:155
+msgid "Floating"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:156
+msgid "Rotating"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:167
+msgid "Select design of panel for Currency Switcher Simple."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:175
+msgid "Classic"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:176
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:34
+msgid "Dropdown"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:188
+msgid "Show panel by mouse hover or click."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:189
+msgid "Toggle Switcher"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:194 modules/currency_switcher/mod.php:199
+msgid "on click"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:195 modules/currency_switcher/mod.php:200
+msgid "on hover"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:196 modules/currency_switcher/mod.php:201
+msgid "full size view"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:211
+msgid "Show current currency at the top of the panel."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:212
+msgid "Move current currency to top"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:222 modules/currency_switcher/mod.php:233
+msgid "Show currency flag in Currency Switcher Rotating."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:223 modules/currency_switcher/mod.php:234
+msgid "Show flags in Rotating"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:244
+msgid "Show currency flag in Currency Switcher Simple."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:245
+msgid "Show flags in Simple"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:256 modules/currency_switcher/mod.php:449
+msgid "Choose your preferred currency display."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:257
+msgid "Show"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:262 modules/currency_switcher/mod.php:270
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:41
+msgid "Flags"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:263 modules/currency_switcher/mod.php:266
+#: modules/currency_switcher/mod.php:271 modules/currency_switcher/mod.php:274
+#: modules/currency_switcher/mod.php:313
+msgid "Currency codes"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:264 modules/currency_switcher/mod.php:267
+#: modules/currency_switcher/mod.php:272 modules/currency_switcher/mod.php:275
+#: modules/currency_switcher/mod.php:315
+msgid "Currency symbols"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:284
+msgid "Show currency flag in order list for Currency Switcher Floating."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:285
+msgid "Show flags in order"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:295
+msgid "Show currency rates in order list for Currency Switcher Floating."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:296
+msgid "Show rates in order"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:307
+msgid "Set the display order and what to display in the list."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:308
+msgid "Show floating order"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:314
+msgid "Titles"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:325
+msgid "Choose icon size for Currency Switcher Simple."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:326
+msgid "Icon size"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:332 modules/currency_switcher/mod.php:337
+#: modules/currency_switcher/mod.php:546 modules/currency_switcher/mod.php:551
+msgid "S"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:333 modules/currency_switcher/mod.php:338
+#: modules/currency_switcher/mod.php:547 modules/currency_switcher/mod.php:552
+msgid "M"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:334 modules/currency_switcher/mod.php:339
+#: modules/currency_switcher/mod.php:548 modules/currency_switcher/mod.php:553
+msgid "L"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:349
+msgid ""
+"Choose panel layout design. Set the horizontal и vertical offset value "
+"according to the selected position of layout design."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:350
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:92
+msgid "Layout"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:355 modules/currency_switcher/mod.php:359
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:106
+msgid "Horizontal"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:356 modules/currency_switcher/mod.php:360
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:99
+msgid "Vertical"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:370
+msgid ""
+"Set the horizontal и vertical offset value according to the selected "
+"position of layout design"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:391 modules/currency_switcher/mod.php:412
+msgid ""
+"Choose basic position of panel. Set the horizontal and vertical offset value "
+"according to the selected position of layout design."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:420 modules/currency_switcher/mod.php:426
+msgid "top"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:421 modules/currency_switcher/mod.php:427
+msgid "bottom"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:436
+msgid "Show currency flag in opening button."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:437
+msgid "Show flags in button"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:450
+msgid "Switcher opening button"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:455 modules/currency_switcher/mod.php:460
+msgid "currency codes"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:456 modules/currency_switcher/mod.php:461
+msgid "currency symbols"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:457 modules/currency_switcher/mod.php:462
+msgid "text"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:486
+msgid "Select switcher opening button font setting."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:487
+msgid "Switcher opening button font setting"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:503 modules/currency_switcher/mod.php:596
+#: modules/currency_switcher/mod.php:600 modules/currency_switcher/mod.php:629
+#: modules/currency_switcher/mod.php:633 modules/currency_switcher/mod.php:664
+#: modules/currency_switcher/mod.php:668 modules/currency_switcher/mod.php:698
+#: modules/currency_switcher/mod.php:702 modules/currency_switcher/mod.php:827
+#: modules/currency_switcher/mod.php:831 modules/currency_switcher/mod.php:914
+#: modules/currency_switcher/mod.php:969 modules/currency_switcher/mod.php:1211
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:162
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:97
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:105
+msgid "px"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:516 modules/currency_switcher/mod.php:927
+#: modules/currency_switcher/mod.php:982
+msgid "Bold"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:529 modules/currency_switcher/mod.php:940
+#: modules/currency_switcher/mod.php:995
+msgid "Italic"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:540
+msgid "Choose size for opening button."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:541
+msgid "Panel opening button size"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:564
+msgid "Show only current currency in opening button."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:565
+msgid "Show current currency only"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:577
+msgid ""
+"Change horizontal panel offset (only for top and bottom positions if type "
+"Floating or Rotating)"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:578
+msgid "Horizontal offset"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:582 modules/currency_switcher/mod.php:650
+msgid "desktop"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:597 modules/currency_switcher/mod.php:601
+#: modules/currency_switcher/mod.php:630 modules/currency_switcher/mod.php:634
+#: modules/currency_switcher/mod.php:665 modules/currency_switcher/mod.php:669
+#: modules/currency_switcher/mod.php:699 modules/currency_switcher/mod.php:703
+#: modules/currency_switcher/mod.php:828 modules/currency_switcher/mod.php:832
+msgid "%"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:615 modules/currency_switcher/mod.php:684
+msgid "mobile"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:645
+msgid "Vertical offset"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:646
+msgid ""
+"Change vertical panel offset (only for left and right positions if type "
+"Floating or Rotating)"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:713
+msgid "Choose design of currency switcher blocks."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:714
+msgid "Icon type"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:720 modules/currency_switcher/mod.php:724
+msgid "rectangular"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:736
+msgid "Set the distance between currency blocks (margin)"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:737
+msgid "Icon spacing"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:742
+msgid "px "
+msgstr ""
+
+#: modules/currency_switcher/mod.php:751
+msgid "Change the level of transparency for the panel."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:752 modules/currency_switcher/mod.php:768
+#: modules/currency_switcher/mod.php:783
+msgid "Transparent"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:756 modules/currency_switcher/mod.php:772
+msgid "panel"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:767
+msgid "Change the level of transparency for the panel and opening button."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:787
+msgid "button"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:796
+msgid "Show panel outer border."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:797
+msgid "Show border"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:809
+msgid "Set panel border-radius."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:810
+msgid "Border-radius"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:842
+msgid "Choose panel border color."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:843
+msgid "Border color"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:851
+msgid "Show panel title."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:852
+msgid "Show header"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:863
+msgid "Type your text for panel title."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:864
+msgid "Panel header text"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:875
+msgid "Choose text color for panel title."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:876
+msgid "Panel header text color"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:884
+msgid "Choose background color for panel title."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:885
+msgid "Panel header background color"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:897
+msgid "Select panel header font setting."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:898
+msgid "Panel header font setting"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:952
+msgid "Select panel text font setting."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:953
+msgid "Panel text font setting"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1006
+msgid "Choose panel text color."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1007
+msgid "Text color"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1010
+#: modules/currency_switcher/mod.php:1048
+#: modules/currency_switcher/mod.php:1086
+#: modules/currency_switcher/mod.php:1124
+msgid "static"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1022
+#: modules/currency_switcher/mod.php:1060
+#: modules/currency_switcher/mod.php:1098
+#: modules/currency_switcher/mod.php:1136
+msgid "hover"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1034
+#: modules/currency_switcher/mod.php:1072
+#: modules/currency_switcher/mod.php:1110
+#: modules/currency_switcher/mod.php:1148
+msgid "selected"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1044
+msgid "Choose panel background color."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1045
+msgid "Background color"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1082
+msgid "Choose rotating block text color."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1083
+msgid "Rotating block text color"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1120
+msgid "Choose rotating block background color."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1121
+msgid "Rotating block background color"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1159
+msgid "Select the devices on which the panel should be displayed."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1160
+#: modules/currency_switcher/mod.php:1189
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:130
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:65
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:73
+msgid "Show on"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1163
+msgid "Mobile and Desktop"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1164
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:136
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:71
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:79
+msgid "mobiles"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1165
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:135
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:70
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:78
+msgid "desktops"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1176
+msgid ""
+"If this option is selected, the panel will be displayed only under the "
+"selected conditions."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1177
+msgid "Show on screen size"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1192
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:151
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:86
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:94
+msgid "less"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1193
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:152
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:87
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:95
+msgid "more"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1196
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:156
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:91
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:99
+msgid "than"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1221
+msgid ""
+"Select pages from the list on which you want to display the panel or select "
+"\"Enable\" to display the panel on each page."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1222
+msgid "Display everywhere"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1226
+msgid "Enable"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1227
+msgid "Disable"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1237
+msgid "Select pages from the list on which you want to hide."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1239
+#: modules/currency_switcher/mod.php:1252
+msgid "Pages"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1263
+msgid "Select product categories from the list on which you want to hide."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1265
+#: modules/currency_switcher/mod.php:1278
+msgid "Product categories"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1289
+msgid "Custom post type from the list on which you want to hide."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1291
+#: modules/currency_switcher/mod.php:1303
+msgid "Custom post types"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1314
+#: modules/currency_switcher/mod.php:1323
+msgid "The shortcode can take parameters, read more in the documentation."
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1315
+msgid "Shortcode"
+msgstr ""
+
+#: modules/currency_switcher/mod.php:1324
+msgid "PHP Shortcode"
+msgstr ""
+
+#: modules/currency_widget/classes/wcuCurrencyConverterWidget.php:10
+msgid "Displays Currency Converter for Woocommerce products"
+msgstr ""
+
+#: modules/currency_widget/classes/wcuCurrencyConverterWidget.php:12
+msgid "Converter"
+msgstr ""
+
+#: modules/currency_widget/classes/wcuCurrencyRatesWidget.php:10
+msgid "Displays Currency Rates Switcher for Woocommerce products"
+msgstr ""
+
+#: modules/currency_widget/classes/wcuCurrencyRatesWidget.php:12
+msgid "Rates"
+msgstr ""
+
+#: modules/currency_widget/classes/wcuCurrencySwitcherWidget.php:10
+msgid "Displays Currency Switcher for Woocommerce products"
+msgstr ""
+
+#: modules/currency_widget/classes/wcuCurrencySwitcherWidget.php:12
+msgid "Switcher"
+msgstr ""
+
+#: modules/currency_widget/views/currency_widget.php:83
+msgid "Warning: Woocommerce is not activated!"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:53
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:18
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:18
+msgid "Width"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:59
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:24
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:24
+msgid "for example: 200px, 100%, auto"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:62
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:27
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:44
+msgid "Currency Dropdown Options Text"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:67
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:32
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:49
+msgid "Currency title"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:71
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:36
+msgid "set the currency's display name for currencies dropdown list"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:79
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:44
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:60
+msgid "show flag in dropdown"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:82
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:55
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:63
+msgid "Excluded currencies"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:88
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:61
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:69
+msgid ""
+"The selected currency will not be displayed in the list of switches. Press "
+"CTRL + CLICK to toggle select."
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:109
+msgid "Convert Button Text Color"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:116
+msgid "Convert Button Background Color"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:123
+msgid "Convert Button Background Hover Color"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:134
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:69
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:77
+msgid "both"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterForm.php:147
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:82
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:90
+msgid "Show on screen widths"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyConverterWidget.php:217
+msgid "Convert"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencyRatesForm.php:52
+msgid "show flags in currency list"
+msgstr ""
+
+#: modules/currency_widget/views/tpl/currencySwitcherForm.php:27
+msgid "Show as"
+msgstr ""
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr ""
+
+#: modules/mail/mod.php:175
+msgid "Cannot send email - problem with send server"
+msgstr ""
+
+#: modules/mail/mod.php:190
+msgid "Mail"
+msgstr ""
+
+#: modules/mail/mod.php:192
+msgid "Mail function tested and work"
+msgstr ""
+
+#: modules/mail/mod.php:193
+msgid "Notify Email"
+msgstr ""
+
+#: modules/mail/mod.php:193
+msgid "Email address used for all email notifications from plugin"
+msgstr ""
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionality"
+msgstr ""
+
+#: modules/mail/models/mail.php:8
+#, php-format
+msgid "This is a test email for testing email functionality on your site, %s."
+msgstr ""
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allows you to check your server mail functionality"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you receive test email?"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It works!"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and is working fine."
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid ""
+"Bad, please contact your hosting provider and ask them to setup mail "
+"functionality on your server."
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:47
+#: modules/options/views/tpl/optionsSettingsTabContent.php:51
+#, php-format
+msgid "Turned On %s"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:48
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52
+#, php-format
+msgid "Turned Off %s"
+msgstr ""
+
+#: modules/mail/views/tpl/mailAdmin.php:69
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+msgid "Save"
+msgstr ""
+
+#: modules/options/mod.php:121
+msgid "General"
+msgstr ""
+
+#: modules/options/mod.php:125
+msgid "User role can use plugin"
+msgstr ""
+
+#: modules/options/mod.php:125
+msgid "User with next roles will have access to whole plugin from admin area."
+msgstr ""
+
+#: modules/options/models/modules.php:35
+msgid "Module Updated"
+msgstr ""
+
+#: modules/options/models/modules.php:50
+msgid "Module Update Failed"
+msgstr ""
+
+#: modules/options/models/modules.php:53
+msgid "Error module ID"
+msgstr ""
+
+#: modules/options/models/options.php:64
+msgid "Empty data to save option"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminPage.php:35
+msgid "Improve Free version"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminPage.php:37
+#, php-format
+msgid ""
+"Please be advised that this template with all other options and PRO "
+"templates is available only in <a target=\"_blank\" href=\"%s\">PRO version</"
+"a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> "
+"today and get this and other PRO features!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsAdminPage.php:40
+#, php-format
+msgid ""
+"Please be advised that this option is available only in <a target=\"_blank\" "
+"href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class="
+"\"button\">Get PRO</a> today and get this and other PRO option!"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:17
+msgid "Go to Woo Currency Settings"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:18
+msgid ""
+"To start work with Woo Currencies - go to it's section in your Woo Store"
+msgstr ""
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:59
+msgid "PRO option"
+msgstr ""
+
+#: modules/pages/views/tpl/deactivatePage.php:33
+msgid "Delete Plugin Data (options, setup data, database tables, etc.)"
+msgstr ""
+
+#: modules/promo/controller.php:7 modules/promo/controller.php:100
+#: modules/promo/controller.php:108 modules/promo/controller.php:116
+msgid "Information was saved. Thank you!"
+msgstr ""
+
+#: modules/promo/controller.php:23
+msgid ""
+"Please don't send contact requests so often - wait for response for your "
+"previous requests."
+msgstr ""
+
+#: modules/promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr ""
+
+#: modules/promo/controller.php:124
+msgid "Thank you for Feedback!"
+msgstr ""
+
+#: modules/promo/mod.php:37
+#, php-format
+msgid ""
+"<h3>Hey, I noticed you just use %s over a week – that’s awesome!</"
+"h3><p>Could you please do me a BIG favor and give it a 5-star rating on "
+"WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr ""
+
+#: modules/promo/mod.php:38 modules/promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr ""
+
+#: modules/promo/mod.php:39 modules/promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr ""
+
+#: modules/promo/mod.php:40
+msgid "I already did"
+msgstr ""
+
+#: modules/promo/mod.php:41
+#, php-format
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr ""
+
+#: modules/promo/mod.php:42
+msgid ""
+"<p>On behalf of the entire <a href=\"https://woobewoo.com/\" target=\"_blank"
+"\">woobewoo.com</a> company I would like to thank you for been with us, and "
+"I really hope that our software helped you. If you found it useful - please, "
+"share your opinion leaving a review.</p>"
+msgstr ""
+
+#: modules/promo/mod.php:45
+msgid "Skip"
+msgstr ""
+
+#: modules/promo/mod.php:47
+#, php-format
+msgid ""
+"You can help us improve our plugin - by <a href=\"%s\" data-statistic-code="
+"\"hide\" class=\"button button-primary wcuEnbStatsAdBtn\">enabling Usage "
+"Statistics</a>. We will collect only our plugin usage statistics data - to "
+"understand Your needs and make our solution better for You."
+msgstr ""
+
+#: modules/promo/mod.php:96
+msgid "Overview"
+msgstr ""
+
+#: modules/promo/mod.php:103
+msgid "Constant Contact - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:104
+msgid "Campaign Monitor - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:105
+msgid "Vertical Response - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:106
+msgid "SendGrid - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:107
+msgid "GetResponse - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:108
+msgid "iContact - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:109
+msgid "Active Campaign - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:110
+msgid "Mailrelay - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:111
+msgid "arpReach - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:112
+msgid "SG Autorepondeur - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:113
+msgid "Benchmark - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:114
+msgid "InfusionSoft - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:115
+msgid "SalesForce - Web-to-Lead - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:116
+msgid "ConvertKit - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:117
+msgid "Emma - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:118
+msgid "SendinBlue - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:119
+msgid "Vision6 - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:120
+msgid "Vtiger - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:121
+msgid "Your Mailing List Provider (Ymlp) - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:122
+msgid "4Dem.it - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:123
+msgid "Dotmailer - PRO"
+msgstr ""
+
+#: modules/promo/mod.php:189
+msgid "Email"
+msgstr ""
+
+#: modules/promo/mod.php:190
+msgid "Website"
+msgstr ""
+
+#: modules/promo/mod.php:191
+msgid "Subject"
+msgstr ""
+
+#: modules/promo/mod.php:192
+msgid "Topic"
+msgstr ""
+
+#: modules/promo/mod.php:193
+msgid "Plugin options"
+msgstr ""
+
+#: modules/promo/mod.php:194
+msgid "Report a bug"
+msgstr ""
+
+#: modules/promo/mod.php:195
+msgid "Require a new functionality"
+msgstr ""
+
+#: modules/promo/mod.php:196 modules/promo/views/tpl/pluginDeactivation.php:79
+msgid "Other"
+msgstr ""
+
+#: modules/promo/mod.php:198
+msgid "Message"
+msgstr ""
+
+#: modules/promo/mod.php:198
+msgid "Hello!"
+msgstr ""
+
+#: modules/promo/views/promo.php:51 modules/promo/views/promo.php:56
+#: modules/promo/views/promo.php:58 modules/promo/views/promo.php:59
+msgid "Yes"
+msgstr ""
+
+#: modules/promo/views/promo.php:51 modules/promo/views/promo.php:56
+#: modules/promo/views/promo.php:58 modules/promo/views/promo.php:59
+msgid "No"
+msgstr ""
+
+#: modules/promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr ""
+
+#: modules/promo/views/tpl/adminFooter.php:10
+msgid "Go"
+msgstr ""
+
+#: modules/promo/views/tpl/adminFooter.php:10
+msgid "PRO"
+msgstr ""
+
+#: modules/promo/views/tpl/adminFooter.php:15
+#: modules/promo/views/tpl/welcomePage.php:23
+msgid "Support"
+msgstr ""
+
+#: modules/promo/views/tpl/adminTour.php:4
+#, php-format
+msgid "Welcome to %s plugin!"
+msgstr ""
+
+#: modules/promo/views/tpl/adminTour.php:5
+#, php-format
+msgid ""
+"Thank you for choosing our %s plugin. Just click here to start using it - "
+"and we will show you it's possibilities and powerfull features."
+msgstr ""
+
+#: modules/promo/views/tpl/adminTour.php:8
+msgid "Close"
+msgstr ""
+
+#: modules/promo/views/tpl/adminTour.php:9
+msgid "Next"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:5
+msgid "FAQ and Documentation"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:16
+msgid "There is no main FAQs for now"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:21
+#: modules/promo/views/tpl/welcomePage.php:50
+msgid "Check all FAQs"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:35
+msgid "Server Settings"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:49
+msgid "News"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:55
+msgid "All news and info"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:61
+msgid "Contact form"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:93
+msgid "Send email"
+msgstr ""
+
+#: modules/promo/views/tpl/overviewTabContent.php:102
+msgid ""
+"Your email was sent, we will try to respond to your as soon as possible. "
+"Thank you for support!"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:40
+msgid "Your Feedback"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:41
+#, php-format
+msgid "If you have a moment, please share why you are deactivating %s"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:47
+msgid "Couldn't get the plugin to work"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:49
+#, php-format
+msgid ""
+"If you have a question, <a href=\"%s\" target=\"_blank\">contact us</a> and "
+"will do our best to help you"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:56
+msgid "I found a better plugin"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:59
+msgid "If it's possible, specify plugin name"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:67
+msgid "I no longer need the plugin"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:73
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:82
+msgid "What is the reason?"
+msgstr ""
+
+#: modules/promo/views/tpl/pluginDeactivation.php:89
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:7
+#, php-format
+msgid "Welcome to the %s v %s"
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:8
+msgid "Skip tutorial"
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:11
+msgid "The best way to work with currency for Woocommerce Shop!"
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:19
+msgid "Step-by-step tutorial"
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:20
+msgid "As an option we can install and setup plugin for you."
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:24
+#, php-format
+msgid ""
+"We love our plugin and do the best to improve all features for You. But "
+"sometimes issues happened, or you can't find required feature that you need. "
+"Don't worry, just <a href='%s' target='_blank'>contact us</a> and we will "
+"help you!"
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:41
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: modules/promo/views/tpl/welcomePage.php:53
+msgid "Let's Start!"
+msgstr ""

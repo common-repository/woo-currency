@@ -1,0 +1,99 @@
+.wcuCurrencySwitcherPopup {
+	display: none;
+	position: absolute;
+	min-width: 200px;
+	z-index: 1;
+	border: 3px solid #1e73be;
+	padding: 25px 15px;
+	margin: 30px auto;
+	border-radius: 50%;
+	text-align: center;
+	background-color: #ffffff;
+}
+.wcuCurrencySwitcherPopupClose {
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 1;
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
+	color: #1e73be;
+	text-decoration: none;
+}
+.wcuCurrencySwitcherPopupCircle {
+	border: 3px solid #1e73be;
+	position: absolute;
+	width: 25px;
+	padding: 20px;
+	border-radius: 50%;
+	background-color: #ffffff;
+}
+.wcuCurrencySwitcherPopupCircle2 {
+	border: 3px solid #1e73be;
+	position: absolute;
+	width: 5px;
+	padding: 10px 15px;
+	border-radius: 50%;
+	background-color: #ffffff;
+}
+
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherPopup {
+	right: 120%;
+	right: calc(100% + 40px);
+	bottom: 100%;
+}
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherPopupCircle {
+	right: -15px;
+	bottom: 0;
+}
+.wcuCurrencySwitcher.right .wcuCurrencySwitcherPopupCircle2 {
+	right: -35px;
+	bottom: -10px;
+}
+
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherPopup {
+	left: 120%;
+	left: calc(100% + 40px);
+	bottom: 100%;
+}
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherPopupCircle {
+	left: -15px;
+	bottom: 0;
+}
+.wcuCurrencySwitcher.left .wcuCurrencySwitcherPopupCircle2 {
+	left: -35px;
+	bottom: -10px;
+}
+
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherPopup {
+	top: 120%;
+	top: calc(100% + 40px);
+	left: 100%;
+}
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherPopupCircle {
+	left: -15px;
+	top: -15px;
+}
+.wcuCurrencySwitcher.top .wcuCurrencySwitcherPopupCircle2 {
+	left: -35px;
+	top: -25px;
+}
+
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherPopup {
+	bottom: 120%;
+	bottom: calc(100% + 40px);
+	left: 100%;
+}
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherPopupCircle {
+	left: -15px;
+	bottom: -10px;
+}
+.wcuCurrencySwitcher.bottom .wcuCurrencySwitcherPopupCircle2 {
+	left: -35px;
+	bottom: -20px;
+}

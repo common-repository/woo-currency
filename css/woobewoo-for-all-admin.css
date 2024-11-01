@@ -1,0 +1,18 @@
+/*remove duplicated WP menu item*/
+#toplevel_page_woo-currency .wp-submenu.wp-submenu-wrap .wp-first-item {
+	display: none;
+}
+/*Admin tour styles*/
+#woobewoo-admin-tour {
+	display: none;
+}
+.woobewoo-tour-btns .close {
+	float: left;
+	margin-left: 10px;
+}
+.wp-pointer.woobewoo-pointer {
+	z-index: 999999 !important;
+}
+.wcuShowCheckbox .col-md-8 .icheckbox_minimal {
+	margin-right:15px;
+}

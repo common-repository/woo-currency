@@ -1,0 +1,199 @@
+.wcuCurrencySwitcher {
+    font-size: 14px !important;
+    font-family: sans-serif !important;
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.wcuCurrencySwitcher * {
+	backface-visibility: inherit !important;
+	-webkit-font-smoothing: subpixel-antialiased !important;
+}
+.selecter-selected {
+	display:none !important;
+}
+.wcuCurrencySwitcher .wcuCurrencySwitcherButtonClose .fa-times {
+	display:block;
+	position:absolute;
+	left:50%;
+	top:50%;
+	-webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.wcuCurrencySwitcher {
+    position: fixed;
+    z-index: 999999;
+}
+
+.wcuCurrencySwitcher.top {
+    top: 0;
+}
+
+.wcuCurrencySwitcher.left {
+    left: 0;
+}
+
+.wcuCurrencySwitcher.right {
+    right: 0;
+}
+
+.wcuCurrencySwitcher.bottom {
+    bottom: 0;
+}
+
+.wcuCurrencySwitcher.vertical {
+    transform: translate(0%, -50%);
+}
+
+.wcuCurrencySwitcher ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.wcuCurrencySwitcher li {
+    text-align: center;
+    cursor: pointer;
+}
+
+.wcuCurrencySwitcher.horizontal li,
+.wcuCurrencySwitcher.horizontal li {
+    display: inline-block;
+    float: left;
+}
+
+.wcuCurrencySwitcher.left li:not(:last-child),
+.wcuCurrencySwitcher.right li:not(:last-child) {
+    border-bottom: none;
+}
+
+.wcuCurrencySwitcher.top li:not(:last-child),
+.wcuCurrencySwitcher.bottom li:not(:last-child) {
+    border-right: none;
+}
+
+.wcuCurrencySwitcher.wcuCscIconType_circle li {
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_s li {
+    font-size: 10px;
+    padding: 4px 8px;
+    line-height: 16px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_m li {
+    font-size: 12px;
+    padding: 5px 10px;
+    line-height: 22px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_l li {
+    font-size: 14px;
+    padding: 6px 12px;
+    line-height: 26px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_s.wcuCscShow_flags li {
+    font-size: 10px;
+    padding: 4px;
+    line-height: normal;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_m.wcuCscShow_flags li {
+    font-size: 12px;
+    padding: 5px;
+    line-height: normal;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_l.wcuCscShow_flags li {
+    font-size: 14px;
+    padding: 6px;
+    line-height: normal;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCscIconSize_s.wcuCscIconType_circle li {
+    min-width: 40px;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCscIconSize_m.wcuCscIconType_circle li {
+    min-width: 45px;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCscIconSize_l.wcuCscIconType_circle li {
+    min-width: 55px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_s.wcuCscIconType_circle li {
+    line-height: 30px !important;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_m.wcuCscIconType_circle li {
+    line-height: 35px !important;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_l.wcuCscIconType_circle li {
+    line-height: 40px !important;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_s.wcuCscShow_flags ul li {
+    font-size: 16px;
+    line-height: 16px !important;
+    padding: 4px;
+    width: 26px !important;
+    height: 26px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_m.wcuCscShow_flags ul li {
+    font-size: 18px;
+    line-height: 22px !important;
+    padding: 5px;
+    width: 34px !important;
+    height: 34px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_l.wcuCscShow_flags ul li {
+    font-size: 20px;
+    line-height: 31px !important;
+    padding: 6px;
+    width: 44px !important;
+    height: 44px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_s.wcuCscShow_flags ul li img {
+    width: 16px;
+    height: 16px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_m.wcuCscShow_flags ul li img {
+    width: 24px;
+    height: 24px;
+}
+
+.wcuCurrencySwitcher.wcuCscIconSize_l.wcuCscShow_flags ul li img {
+    width: 32px;
+    height: 32px;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCscIconSize_s.wcuCscIconType_circle.wcuCscShow_flags ul li {
+    min-width: auto;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCscIconSize_m.wcuCscIconType_circle.wcuCscShow_flags ul li {
+    min-width: auto;
+}
+
+.wcuCurrencySwitcher.horizontal.wcuCscIconSize_l.wcuCscIconType_circle.wcuCscShow_flags ul li {
+    min-width: auto;
+}
+.wcuCurrencySwitcher img {
+    max-width:32px !important;
+}
+.wcuCurrencySwitcher *,
+.wcuCurrencySwitcher *::before,
+.wcuCurrencySwitcher *::after {
+	box-sizing: border-box;
+}

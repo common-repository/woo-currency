@@ -1,0 +1,155 @@
+.wcuErrorMsg {
+    color: #fa4e7f;
+}
+
+.wcuSuccessMsg {
+    color: #4ae8ea;
+}
+
+.wcuInputError {
+    border: 1px #fa4e7f solid !important;
+}
+
+.toeUpdateQtyButtonsWrapper {
+    float: left;
+    margin: 4px 0 0 -22px;
+}
+
+.toeIncDecButton {
+    width: 8px;
+    height: 7px;
+    background: url("../img/toeIncDec.png") top right no-repeat;
+    text-decoration: none;
+    cursor: pointer;
+    text-indent: -9999px;
+}
+
+.toeIncButton {
+    margin-bottom: 5px;
+    background-position: top left;
+}
+
+.nav-tab-wrapper-child,
+.wrap h2.nav-tab-wrapper-child,
+h1.nav-tab-wrapper-child {
+    border-bottom: 1px solid #ccc;
+    margin: 0;
+    padding-top: 9px;
+    padding-bottom: 0;
+    line-height: inherit;
+}
+
+.nav-tab-wrapper-child:not(.wp-clearfix):after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.nav-tab-child {
+    float: left;
+    border: 1px solid #ccc;
+    margin-left: .5em;
+    margin-bottom: -1px;
+    border-bottom: 1px solid #ccc;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 600;
+    background: #e5e5e5;
+    color: #555;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.nav-tab-child-active,
+.nav-tab-child-active:focus,
+.nav-tab-child-active:focus:active,
+.nav-tab-child-active:hover {
+    border-bottom: 1px solid #f1f1f1;
+    background: #f1f1f1;
+    color: #000;
+    outline: 0;
+}
+
+.nav-tab-child:focus,
+.nav-tab-child:hover {
+    background-color: #fff;
+    color: #444;
+    outline: 0;
+    box-shadow: none;
+}
+
+.wcuTabContentChild {
+    display: none;
+}
+
+.nav-tab-child-active,
+.wcuTabContentChildActive {
+    display: block;
+}
+
+.wcuSwitcherRadioLabel {
+    display: inline-block;
+    margin-right: 10px;
+    font-weight: normal;
+}
+
+.wcuSwitcherRadioLabel div {
+    display: inline-block !important;
+    margin-right: 5px !important;
+}
+
+.wcuSwitcherInput {
+    display: inline-block;
+    position: relative;
+    margin: 0px 7px !important;
+    width: 60px !important;
+}
+
+.wcuSwitcherInputLabel {
+    font-weight: normal;
+    line-height: 28px;
+}
+td>label.wcuSwitcherInputLabel:first-child>input:first-child, td>div.wcuTabContentInrowElement:first-child>input:first-child{
+    margin-left: 0 !important;
+}
+
+.wcuToShowSelectList select {
+    min-height: 150px !important;
+}
+
+td .wcuColorPickerLabelBefore:first-child {
+    margin-left: 0px;
+}
+
+.wcuColorPickerLabelBefore {
+    display: inline-block !important;
+    margin: 0px 10px 0px 50px;
+}
+
+.wcuSelectMultipleSortableWrapper {
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.wcuSelectMultipleSortableDiv {
+    display: inline-block;
+    position: relative;
+    float: left;
+    padding-right: 25px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.wcuSelectMultipleSortableDiv .icheckbox_minimal {
+    margin-right: 10px !important;
+}
+
+.wcuHidden {
+    display: none !important;
+}
+
+.wcuAddFlagButtonRow, .wcuRemoveFlagButton  {
+    height:30px !important;
+}
